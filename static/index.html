@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agriculture AI Assistant</title>
+    <style>
+        :root { --primary-color: #4CAF50; --secondary-color: #81C784; --bg-color: #F1F8E9; --unhealthy-color: #F44336; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); margin: 0; padding: 2rem; display: flex; justify-content: center; min-height: 100vh; }
+        .container { max-width: 800px; width: 100%; }
+        .header { background-color: var(--primary-color); color: white; padding: 2rem; border-radius: 16px 16px 0 0; text-align: center; }
+        .header h1 { margin: 0; font-size: 2.5rem; display: flex; align-items: center; justify-content: center; gap: 1rem; }
+        .main-content { background-color: var(--bg-color); padding: 2rem; border-radius: 0 0 16px 16px; }
+        .status-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+        .status-card { background-color: white; border: 1px solid #e0e0e0; border-radius: 12px; padding: 1rem; text-align: center; }
+        .status-card h3 { margin: 0 0 0.5rem 0; font-size: 1rem; color: #555; }
+        .status-light { padding: 0.5rem 1rem; border-radius: 99px; font-weight: bold; color: white; transition: background-color 0.3s ease; }
+        .healthy { background-color: var(--primary-color); } .unhealthy { background-color: var(--unhealthy-color); }
+        .card { background: white; padding: 2rem; border-radius: 12px; margin-bottom: 1.5rem; }
+        h2 { margin-top: 0; } label { display: block; margin-bottom: 0.5rem; font-weight: bold; }
+        input[type="text"], textarea, select { width: 100%; padding: 0.75rem; border-radius: 8px; border: 1px solid #ccc; box-sizing: border-box; font-size: 1rem; }
+        textarea { resize: vertical; min-height: 100px; }
+        .location-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+        .btn { display: block; width: 100%; padding: 1rem; background-color: var(--primary-color); color: white; border: none; border-radius: 8px; font-size: 1.2rem; font-weight: bold; cursor: pointer; transition: background-color 0.3s; margin-top: 1rem; }
+        .btn:hover { background-color: #388E3C; }
+        .btn-secondary { background-color: var(--secondary-color); }
+        #response-container { display: none; }
+        .response-section h3 { border-bottom: 2px solid var(--secondary-color); padding-bottom: 0.5rem; }
+        .response-section p { white-space: pre-wrap; line-height: 1.6; }
+        .spinner { display: none; margin: 2rem auto; border: 5px solid #f3f3f3; border-top: 5px solid var(--primary-color); border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        /* --- NEW: CSS for the TTS Toggle Switch --- */
+        .setting-row { display: flex; justify-content: space-between; align-items: center; margin-top: 1.5rem; }
+        .switch { position: relative; display: inline-block; width: 50px; height: 28px; }
+        .switch input { opacity: 0; width: 0; height: 0; }
+        .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: #ccc; transition: .4s; border-radius: 28px; }
+        .slider:before { position: absolute; content: ""; height: 20px; width: 20px; left: 4px; bottom: 4px; background-color: white; transition: .4s; border-radius: 50%; }
+        input:checked + .slider { background-color: var(--primary-color); }
+        input:checked + .slider:before { transform: translateX(22px); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header"><h1>🌾 Agriculture AI Assistant</h1><p>Intelligent irrigation and farming advice powered by AI</p></header>
+        <main class="main-content">
+            <div class="status-grid">
+                <div class="status-card"><h3>API Status</h3><div id="api-status" class="status-light unhealthy">...</div></div>
+                <div class="status-card"><h3>RAG Service</h3><div id="rag-status" class="status-light unhealthy">...</div></div>
+                <div class="status-card"><h3>LLM Service</h3><div id="llm-status" class="status-light unhealthy">...</div></div>
+            </div>
+            <div class="card">
+                <h2>Ask Your Question</h2>
+                <form id="query-form">
+                    <label for="query">Question (Text or Voice)</label>
+                    <textarea id="query" name="query" placeholder="e.g., Should I irrigate my wheat crop today?" required></textarea>
+                    <label for="lang" style="margin-top: 1rem;">Language</label>
+                    <select id="lang" name="lang"><option value="en">English</option><option value="hi">Hindi</option><option value="hinglish">Hinglish</option></select>
+                    <div class="location-grid" style="margin-top: 1rem;">
+                        <div><label for="lat">Latitude</label><input type="text" id="lat" name="lat" value="28.6139" required></div>
+                        <div><label for="lon">Longitude</label><input type="text" id="lon" name="lon" value="77.2090" required></div>
+                    </div>
+                    <button type="button" class="btn btn-secondary" id="get-location-btn" style="margin-top: 1rem;">📍 Use My Current Location</button>
+                    <label for="audio_file" style="margin-top: 1.5rem;">Audio File (Optional)</label>
+                    <input type="file" id="audio_file" name="audio_file" accept="audio/*">
+                    
+                    <!-- --- NEW: The TTS Toggle Switch --- -->
+                    <div class="setting-row">
+                        <label for="tts-toggle">Generate Audio Response</label>
+                        <label class="switch">
+                            <input type="checkbox" id="tts-toggle" checked>
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+                    
+                    <button type="submit" class="btn" id="submit-btn">Get AI Advice</button>
+                </form>
+            </div>
+            <div class="spinner" id="spinner"></div>
+            <div class="card" id="response-container">
+                <h2>AI Response</h2>
+                <div class="response-section"><h3>Answer</h3><p id="answer-text"></p></div>
+                <div class="response-section" id="explanation-section"><h3>Explanation</h3><p id="explanation-text"></p></div>
+                <div class="response-section" id="audio-section"><h3>Audio Response</h3><audio id="audio-player" controls></audio></div>
+            </div>
+        </main>
+    </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const form = document.getElementById('query-form');
+            const submitBtn = document.getElementById('submit-btn');
+            const spinner = document.getElementById('spinner');
+            const responseContainer = document.getElementById('response-container');
+            const answerText = document.getElementById('answer-text');
+            const explanationText = document.getElementById('explanation-text');
+            const audioPlayer = document.getElementById('audio-player');
+            const explanationSection = document.getElementById('explanation-section');
+            const audioSection = document.getElementById('audio-section');
+            const getLocationBtn = document.getElementById('get-location-btn');
+            const ttsToggle = document.getElementById('tts-toggle');
+            
+            const updateStatusLight = (el, isHealthy) => { el.textContent = isHealthy ? 'Healthy' : 'Unhealthy'; el.classList.toggle('healthy', isHealthy); el.classList.toggle('unhealthy', !isHealthy); };
+            const fetchHealthStatus = async () => {
+                try {
+                    const response = await fetch('/health');
+                    const data = await response.json();
+                    updateStatusLight(document.getElementById('api-status'), data.status === 'healthy');
+                    updateStatusLight(document.getElementById('rag-status'), data.services.rag);
+                    updateStatusLight(document.getElementById('llm-status'), data.services.local_llm);
+                } catch (error) { console.error('Health check failed:', error); }
+            };
+            fetchHealthStatus(); setInterval(fetchHealthStatus, 5000);
+
+            getLocationBtn.addEventListener('click', () => {
+                navigator.geolocation.getCurrentPosition(pos => {
+                    document.getElementById('lat').value = pos.coords.latitude.toFixed(4);
+                    document.getElementById('lon').value = pos.coords.longitude.toFixed(4);
+                }, () => alert('Could not get location.'));
+            });
+
+            form.addEventListener('submit', async (e) => {
+                e.preventDefault();
+                spinner.style.display = 'block';
+                responseContainer.style.display = 'none';
+                submitBtn.disabled = true; submitBtn.textContent = 'Thinking...';
+                
+                const formData = new FormData(form);
+                // --- NEW: Add the toggle state to the form data ---
+                formData.append('generate_audio', ttsToggle.checked);
+                
+                try {
+                    const response = await fetch('/ask', { method: 'POST', body: formData });
+                    if (!response.ok) { const err = await response.json(); throw new Error(err.detail); }
+                    const data = await response.json();
+
+                    answerText.textContent = data.answer || 'No answer provided.';
+                    explanationText.textContent = data.explanation || '';
+                    explanationSection.style.display = data.explanation ? 'block' : 'none';
+                    
+                    if (data.audio_url) {
+                        audioPlayer.src = data.audio_url;
+                        audioSection.style.display = 'block';
+                    } else {
+                        audioSection.style.display = 'none';
+                    }
+                    responseContainer.style.display = 'block';
+                } catch (error) {
+                    answerText.textContent = `An error occurred: ${error.message}`;
+                    responseContainer.style.display = 'block';
+                } finally {
+                    spinner.style.display = 'none';
+                    submitBtn.disabled = false; submitBtn.textContent = 'Get AI Advice';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

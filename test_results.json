@@ -1,0 +1,46 @@
+{
+  "configuration": {
+    "status": "PASS",
+    "message": "Configuration loaded successfully"
+  },
+  "stt_service": {
+    "status": "PASS",
+    "message": "STT service working"
+  },
+  "nlu_service": {
+    "status": "PASS",
+    "message": "NLU service working"
+  },
+  "weather_service": {
+    "status": "PASS",
+    "message": "Weather service working"
+  },
+  "soil_service": {
+    "status": "PASS",
+    "message": "Soil service working"
+  },
+  "rule_engine": {
+    "status": "PASS",
+    "message": "Rule engine working"
+  },
+  "rag_service": {
+    "status": "PASS",
+    "message": "RAG service working"
+  },
+  "local_llm": {
+    "status": "PASS",
+    "message": "Local LLM working"
+  },
+  "cloud_llm": {
+    "status": "SKIP",
+    "message": "Cloud LLM not available"
+  },
+  "response_generator": {
+    "status": "PASS",
+    "message": "Response generator working"
+  },
+  "end_to_end": {
+    "status": "PASS",
+    "message": "End-to-end pipeline working"
+  }
+}

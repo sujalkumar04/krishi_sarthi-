@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agriculture-ai-assistant"
+version = "0.1.0"
+description = "Agentic AI Assistant for Agriculture - Irrigation Advisor"
+authors = [{name = "AI Developer", email = "dev@example.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi>=0.104.1",
+    "uvicorn[standard]>=0.24.0",
+    "pydantic>=2.5.0",
+    "python-multipart>=0.0.6",
+    "python-dotenv>=1.0.0",
+    "llama-cpp-python>=0.2.11",
+    "sentence-transformers>=2.2.2",
+    "faiss-cpu>=1.7.4",
+    "openai>=1.3.7",
+    "transformers>=4.35.2",
+    "torch>=2.1.1",
+    "openai-whisper>=20231117",
+    "gtts>=2.4.0",
+    "TTS>=0.22.0",
+    "pydub>=0.25.1",
+    "pandas>=2.1.3",
+    "numpy>=1.24.3",
+    "PyPDF2>=3.0.1",
+    "python-docx>=0.8.11",
+    "httpx>=0.25.2",
+    "requests>=2.31.0",
+    "aiofiles>=23.2.1",
+    "python-dateutil>=2.8.2",
+    "geopy>=2.4.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.3",
+    "black>=23.11.0",
+    "flake8>=6.1.0",
+    "mypy>=1.7.1"
+]
+
+[tool.black]
+line-length = 88
+target-version = ['py39']
+
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true

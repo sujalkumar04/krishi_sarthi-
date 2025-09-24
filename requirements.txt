@@ -1,0 +1,69 @@
+# fastapi==0.104.1
+# uvicorn[standard]==0.24.0
+# pydantic==2.5.0
+# python-multipart==0.0.6
+# python-dotenv==1.0.0
+
+# # AI/ML Libraries
+# llama-cpp-python==0.2.11
+# sentence-transformers==2.2.2
+# faiss-cpu==1.7.4
+# openai==1.3.7
+# transformers==4.35.2
+# torch>=2.6.0
+
+# # Speech Processing
+# openai-whisper==20231117
+# gtts==2.4.0
+# TTS==0.22.0
+# pydub==0.25.1
+
+# # Data Processing
+# pandas==2.1.3
+# numpy==1.24.3
+# PyPDF2==3.0.1
+# python-docx==1.1.0
+
+# # HTTP & API
+# httpx==0.25.2
+# requests==2.31.0
+# aiofiles==23.2.1
+
+# # Utilities
+# python-dateutil==2.8.2
+# geopy==2.4.0
+
+
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-dotenv
+
+# AI/ML Libraries
+llama-cpp-python
+sentence-transformers
+faiss-cpu
+openai
+transformers
+torch
+
+# Speech Processing
+openai-whisper
+gtts
+pydub
+
+# Data Processing
+pandas
+numpy
+PyPDF2
+python-docx
+
+# HTTP & API
+httpx
+requests
+aiofiles
+
+# Utilities
+python-dateutil
+geopy

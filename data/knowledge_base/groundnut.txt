@@ -1,0 +1,1168 @@
+﻿The Groundnut (Arachis hypogaea L.): A Comprehensive Global Report on its Science, Cultivation, and Economic Significance
+
+
+
+
+Executive Summary
+
+
+The groundnut (Arachis hypogaea L.), commonly known as the peanut, is a crop of immense global significance, valued for its exceptional nutritional profile, economic versatility, and role in sustainable agriculture. Botanically a legume, not a true nut, its kernels are a powerhouse of protein (approximately 25%), oil (~50%), essential minerals, vitamins, and health-promoting bioactive compounds like resveratrol. This report provides an exhaustive analysis of the groundnut, synthesizing scientific, agronomic, and economic knowledge to serve as a definitive reference for farmers, researchers, policymakers, and students.
+Globally, groundnut is cultivated on approximately 32.7 million hectares, yielding nearly 54 million tons annually, with China and India leading production.1 The global market, valued at over USD 90 billion in 2023, is projected to exceed USD 109 billion by 2032, driven by rising demand for healthy, plant-based foods and innovative products.2 The crop is a cornerstone of food security and rural livelihoods, particularly for smallholder farmers in the semi-arid tropics of Asia and Africa. Furthermore, its ability to fix atmospheric nitrogen makes it a vital component of sustainable cropping systems, improving soil fertility and reducing reliance on synthetic fertilizers.1
+Originating in South America from a single hybridization event between two wild diploid species, the cultivated groundnut possesses a unique reproductive biology known as geocarpy—flowering above ground while fruiting below. This process necessitates specific agronomic conditions, particularly loose, well-drained sandy loam soils and adequate calcium in the topsoil (the "pegging zone") for proper pod development.3
+This report delves into the intricate details of groundnut cultivation, from its precise ecological requirements and a comparative analysis of land preparation and irrigation methods to integrated strategies for managing nutrients, weeds, pests, and diseases. It provides a comprehensive overview of crop improvement efforts, contrasting traditional landraces with modern high-yielding, climate-resilient, and biofortified varieties developed through conventional breeding and advanced biotechnological tools.
+A critical focus is placed on post-harvest management, where timely harvesting, proper drying, and effective storage are paramount to preserving quality and, crucially, mitigating the risk of aflatoxin contamination—a major health concern and a significant barrier to international trade.1 The economic landscape is thoroughly examined, including detailed analyses of the cost of cultivation, the structure of the value chain, opportunities for value addition, and the impact of policy instruments such as India's Minimum Support Price (MSP).
+Looking forward, the report addresses the pressing challenges facing groundnut production, including the impacts of climate change, the persistent gap between potential and actual farm yields, and the need for greater environmental sustainability. It highlights the transformative potential of innovations in biotechnology, such as marker-assisted selection and gene editing, and precision agriculture technologies to enhance resilience, optimize resource use, and secure the future of this vital global crop. The findings underscore the necessity of an integrated, science-based, and policy-supported approach to unlock the full potential of the groundnut for enhancing global food security, improving farmer livelihoods, and promoting sustainable agricultural systems.
+
+
+Section 1: Introduction to a Global Staple
+
+
+
+
+1.1. The Groundnut: A Nutritional and Economic Powerhouse
+
+
+The groundnut (Arachis hypogaea L.) holds a unique and esteemed position in global agriculture and nutrition. Though commonly referred to as a peanut, it is not a true nut but a legume, belonging to the same botanical family as peas and beans.5 Its various names—including groundnut, goober, goober pea, and pindar—reflect its diverse cultural integration across the globe.6 The name "groundnut" is particularly descriptive, as the plant possesses the unusual characteristic of flowering above ground but developing its fruit, the pod, beneath the soil surface.5
+The primary value of the groundnut lies in its exceptional nutritional composition. The kernels are a concentrated source of energy, protein, and healthy fats, making them a critical component in diets worldwide, especially in regions facing malnutrition.1 A typical groundnut kernel contains approximately 50% oil and 25% protein, making it both a major oilseed crop and a high-protein food source.1 The oil is highly valued for its favorable fatty acid profile, rich in heart-healthy monounsaturated and polyunsaturated fats.1 Beyond these macronutrients, groundnuts are packed with essential minerals such as phosphorus, calcium, magnesium, and potassium, as well as vitamins E, K, and B-complex.9 Furthermore, they are a significant source of bioactive compounds, including antioxidants like resveratrol and coenzyme Q10, which are associated with various health benefits, such as reducing the risk of chronic illnesses like heart disease.1
+The versatility of the groundnut is a key driver of its economic importance. It is consumed in a myriad of forms, from whole roasted or boiled nuts and snack foods to processed products like peanut butter, which alone accounts for hundreds of millions of dollars in annual consumption in the United States.5 Its high oil content makes it a leading source of edible oil globally, renowned for its pleasant flavor and high smoke point.1 The crop's utility extends to confectionery, sauces, and the production of protein-rich flour and meal, which serves as a valuable animal feed.2
+
+
+1.2. Global Production Landscape and Market Dynamics
+
+
+The groundnut is cultivated extensively across the globe, thriving in tropical, subtropical, and warm temperate climates between 40°N and 40°S latitudes.1 In 2021, the crop was grown on an estimated 32.7 million hectares worldwide, yielding a total production of 53.9 million tons.1 While it is cultivated in over 120 countries, production is highly concentrated in a few key nations.14 China and India are the dominant forces in the global groundnut market, collectively accounting for a significant portion of both area and production.1 Following these leaders are major producers such as Nigeria, the United States, Sudan, and Argentina, underscoring the crop's importance across Asia, Africa, and the Americas.16
+The economic significance of groundnut is substantial and growing. The global market was valued at USD 90.05 billion in 2023 and is projected to expand to USD 109.29 billion by 2032, reflecting a steady Compound Annual Growth Rate (CAGR) of 2.14%.2 This growth is propelled by several interconnected factors. Rising global health consciousness and a burgeoning interest in plant-based diets have elevated the status of groundnut as a nutritious, protein-rich food source. Concurrently, innovations in food processing have led to an expanding array of value-added products, from fortified peanut butters to ready-to-eat snacks, catering to modern consumer preferences for convenience and nutrition.2
+Despite this positive growth trajectory, the global groundnut market is characterized by significant complexity and volatility. Production in key exporting nations like Argentina and Brazil can fluctuate dramatically due to weather conditions, impacting global supply and pricing dynamics. For instance, a problematic harvest in Brazil can increase market pressure on Argentina's supply, while a tight supply in the USA can lead to a scramble for alternative sources.19 This interplay of regional production successes and failures creates a constantly evolving and often volatile trade environment, posing challenges for both producers and buyers.
+Table 1: Global Groundnut Production Statistics (2021 Data)
+
+
+Rank
+	Country
+	Production (Million Metric Tons)
+	Area Harvested (Million Hectares)
+	Yield (kg/ha)
+	1
+	China
+	18.38
+	4.75
+	3,869
+	2
+	India
+	10.13
+	5.97
+	1,697
+	3
+	Nigeria
+	4.28
+	4.30
+	995
+	4
+	United States
+	2.53
+	0.59
+	4,288
+	5
+	Sudan
+	2.50
+	3.80
+	658
+	6
+	Senegal
+	1.81
+	1.20
+	1,508
+	7
+	Myanmar
+	1.63
+	0.90
+	1,811
+	8
+	Argentina
+	1.15
+	0.38
+	3,026
+	9
+	Guinea
+	1.00
+	0.70
+	1,429
+	10
+	Tanzania
+	0.95
+	1.05
+	905
+	Source: FAOSTAT, 2023; USDA, 2023 1
+	
+
+	
+
+	
+
+	
+
+	
+
+	The data in Table 1 highlights a critical aspect of the global groundnut landscape: the vast disparity in productivity. While countries like the USA achieve yields exceeding 4,000 kg/ha through advanced agronomy and irrigation, the average yield in many developing nations remains below 1,500 kg/ha. This "yield gap" represents both a significant challenge and a substantial opportunity for improving global food security and farmer incomes.
+
+
+1.3. Contribution to Global Food Security and Sustainable Agriculture
+
+
+Beyond its impressive market value, the groundnut plays a fundamental role in global food security and the promotion of sustainable agricultural systems. For millions of smallholder farmers in the semi-arid tropics of Asia and Africa, groundnut is not merely a commodity but a lifeline. It serves as a crucial source of dietary protein and calories, directly combating malnutrition, while also providing a reliable cash income that supports rural livelihoods and enhances economic resilience.8 In regions like Uganda and Senegal, the groundnut value chain is a significant employer, driving rural development and poverty alleviation.22
+The crop's contribution to sustainability is equally profound. As a legume, the groundnut plant forms a symbiotic relationship with soil bacteria known as Bradyrhizobium, which reside in nodules on its roots.13 These bacteria perform biological nitrogen fixation, converting atmospheric nitrogen into a form that the plant can use for growth. This natural process enriches the soil with nitrogen, reducing or eliminating the need for costly synthetic nitrogen fertilizers, which have a significant environmental footprint.1 This makes groundnut an ideal crop for inclusion in rotation systems. By alternating groundnut with nitrogen-demanding cereal crops like maize or cotton, farmers can naturally replenish soil fertility, break pest and disease cycles, and enhance the productivity of the entire farming system.1
+This dual role as both a food security staple and a commercial commodity presents a complex policy challenge. Strategies aimed at boosting production for international markets must be carefully balanced with the need to ensure local food availability and affordability. For instance, the stringent aflatoxin standards required for export markets may divert the highest-quality produce away from local consumers, or the promotion of export-oriented varieties may not align with the resilience and nutritional needs of subsistence farmers. Therefore, a nuanced approach is required, one that supports the development of robust value chains for both domestic and international markets while empowering smallholders to benefit from both.
+Furthermore, while groundnut cultivation offers inherent sustainability benefits, its expansion to meet rising global demand is not without environmental risks. The push for higher production can lead to unsustainable practices, such as deforestation to clear new land or the over-extraction of groundwater for irrigation, thereby straining natural resources.26 This creates a sustainability paradox: the very crop that can enhance agroecosystem health can also contribute to its degradation if not managed responsibly. Consequently, the future of groundnut cultivation must be rooted in sustainable intensification—increasing yields on existing farmland through improved varieties, efficient water management, and integrated soil fertility practices—to meet global demand without compromising environmental integrity.
+
+
+Section 2: The Journey of the Groundnut: History and Domestication
+
+
+
+
+2.1. South American Origins and Centers of Diversity
+
+
+The story of the groundnut begins in South America, which is its undisputed primary center of origin.5 Botanical and genetic evidence points specifically to the valleys of the Paraguay and Paraná rivers, a region spanning parts of modern-day Brazil, Bolivia, and Paraguay, as the cradle of its domestication.11 Archaeological findings corroborate this ancient lineage, with the earliest evidence of peanut farming discovered in the Ñanchoc Valley of Peru, dating back an astonishing 7,600 years.7 Other excavations in Peruvian desert oases have unearthed cultivated peanuts from between 2500 and 300 BC, indicating a long and rich history of cultivation by the continent's indigenous peoples.28
+The genetic journey of the cultivated groundnut, Arachis hypogaea, is as fascinating as its geographical one. It is an allotetraploid, meaning its genome is composed of chromosome sets from two different ancestral species.11 Molecular studies have revealed that it arose from a single, spontaneous hybridization event that occurred thousands of years ago between two wild diploid species:
+Arachis duranensis, which contributed the 'A' genome, and Arachis ipaensis, which contributed the 'B' genome.9 The resulting sterile hybrid underwent a natural chromosome doubling, restoring fertility and giving rise to the tetraploid species that was subsequently domesticated.9
+This singular origin event created what is known as a "domestication bottleneck." While this event gave rise to a successful crop, it also meant that the vast genetic diversity present in the more than 80 other wild Arachis species was left behind.11 As a result, the genetic base of cultivated groundnut is remarkably narrow, containing only a fraction of the diversity found in its wild relatives.11 This historical genetic bottleneck is a critical factor for modern agriculture, as it underlies the crop's vulnerability to many pests and diseases. It is the primary reason why contemporary plant breeders and geneticists are actively exploring the wild
+Arachis gene pool to find and introduce valuable traits for stress tolerance and disease resistance that were lost during domestication.11
+The groundnut was deeply embedded in the cultures of ancient South American civilizations. The Incas of Peru and Ecuador were skilled peanut farmers, employing irrigation and using llamas for transport.7 The Moche people of Peru (100-800 AD) valued it so highly that they decorated their pottery with peanut motifs and buried their elite with magnificent gold and silver peanut necklaces.7 For many indigenous groups, the groundnut was not just food but a sacred crop, with its cultivation and harvest often imbued with cultural and spiritual significance.7
+
+
+2.2. Global Dissemination: From the New World to Africa and Asia
+
+
+The global journey of the groundnut began in the 16th century with the arrival of European explorers in the Americas. Spanish conquistadors encountered the crop, known to the Aztecs as tlālcacahuatl ("earth-cacao"), being sold in the markets of Tenochtitlan.13 The first written European accounts date to the early 1500s, when explorers documented its cultivation in Hispaniola and other parts of the West Indies, where the Arawak people called it
+maní—a name still used in Spanish-speaking South America today.29
+Valued by Portuguese and Spanish sailors as a nutritious and non-perishable food source for long sea voyages, the groundnut was quickly transported across the Atlantic.7 It was introduced to West Africa by the Portuguese, where it found a highly receptive environment. The crop thrived in the African climate and soils, eventually becoming so widespread that it substantially replaced the indigenous Bambara groundnut (
+Vigna subterranea), another geocarpic legume, in many farming systems.7
+Simultaneously, Spanish trade routes carried the groundnut across the Pacific to their colonies in the Philippines. From this foothold in Asia, it rapidly spread to China, Japan, Malaysia, and India during the 1600s.7 In both China and India, the groundnut was quickly adopted into local agricultural systems, becoming a mainstay crop that provided a new source of oil and protein, fundamentally shaping the agricultural and culinary landscapes of these populous nations.11
+
+
+2.3. Establishment and Agricultural Impact in the United States
+
+
+The groundnut's arrival in North America is inextricably linked to the transatlantic slave trade. Enslaved Africans brought the crop with them, and slave traders carried peanuts on their ships as a cheap but calorie-dense food source for the horrific Middle Passage.7 For many years, it remained a garden crop, primarily cultivated and consumed within African American communities in the South.13
+Its transformation into a major American commercial crop began after the Civil War. Technological advancements in the late 19th and early 20th centuries created new mass markets for peanut products, including roasted nuts, peanut oil, and, most famously, peanut butter.5 This surge in demand spurred an expansion in cultivation.
+The crop's ascent was cemented by the pioneering work of Dr. George Washington Carver at the Tuskegee Institute in the early 1900s. Carver recognized the groundnut's potential to solve one of the South's most pressing agricultural problems: soil depletion caused by decades of continuous cotton monoculture. He championed the groundnut as an ideal rotational crop, demonstrating how its nitrogen-fixing ability could restore soil fertility.5 To create demand for this new crop, Carver famously developed over 300 uses for the peanut, ranging from food products to industrial materials like ink and glue.7 His tireless advocacy and practical research helped establish the groundnut as a profitable and sustainable alternative for Southern farmers, transforming it into a cornerstone of the region's agricultural economy.5 Today, peanut production in the United States is concentrated in three main geographic areas: the Southeast (Georgia, Alabama, Florida), the Southwest (Texas, Oklahoma, New Mexico), and the Virginia-Carolina region.5
+
+
+Section 3: Botanical Profile and Plant Morphology
+
+
+
+
+3.1. Taxonomic Classification: The Arachis Genus
+
+
+The cultivated groundnut, Arachis hypogaea L., belongs to the plant kingdom's Domain Eukaryota, Family Fabaceae (also known as Leguminosae), which encompasses a vast and economically important group of plants including beans, peas, and lentils.9 Within this family, it is classified in the subtribe Stylosanthinae and the tribe Aeschynomeneae.34
+The genus Arachis is endemic to South America and is comprised of over 80 described species, with new species still being discovered.15 The genus is taxonomically organized into nine distinct sections based on morphology and cross-compatibility:
+Arachis, Erectoides, Rhizomatosae, Extranervosae, Heteranthae, Trierectoides, Triseminatae, Caulorrhizae, and Procumbentes.9 The cultivated groundnut is placed within the section
+Arachis. Most species within the genus are diploid, possessing 20 chromosomes (2n=2x=20).14 A key distinguishing feature of all
+Arachis species is their geocarpic reproductive habit—they flower above ground but produce their fruit below the soil.9
+Arachis hypogaea and its immediate wild progenitor, Arachis monticola, are the only naturally occurring allotetraploid species in the genus, with 40 chromosomes (2n=4x=40).15
+
+
+3.2. Cultivated Species: Arachis hypogaea L.
+
+
+The remarkable morphological variability within the cultivated groundnut has led to its classification into two primary subspecies: A. hypogaea subsp. hypogaea and A. hypogaea subsp. fastigiata. This fundamental division is based on key traits, most notably the branching pattern and the presence or absence of flowers on the main stem.9 These subspecies are further divided into six botanical varieties, which correspond to the major market types recognized in global commerce.
+
+
+3.2.1. Subspecies hypogaea (Virginia and Runner types)
+
+
+This subspecies is characterized by the absence of flowers on the central main stem. Its lateral branches exhibit an "alternate" branching pattern, with alternating pairs of vegetative and reproductive axes. Plants of this subspecies generally have a longer growth cycle and a more spreading, prostrate-to-decumbent growth habit.9 It is divided into two botanical varieties:
+* var. hypogaea: This variety encompasses the Virginia and Runner market types, which originated in the Amazonian regions of Bolivia.30 Virginia types are known for their large pods and seeds and are often marketed roasted in-shell for the gourmet snack market. Runner types have smaller seeds and are the primary type grown in the U.S. for making peanut butter, accounting for about 80% of the country's acreage.5
+* var. hirsuta: Originating from Peru, this variety is known as the Peruvian Runner. Its primary distinguishing feature is its more hairy (hirsute) leaves and stems compared to var. hypogaea.9
+
+
+3.2.2. Subspecies fastigiata (Spanish and Valencia types)
+
+
+This subspecies is distinguished by the presence of flowers on its main stem. Its branches display a "sequential" pattern, where reproductive axes appear consecutively, or a disorganized arrangement of floral and vegetative axes. These plants typically have a more erect, bunch-type growth habit and a shorter life cycle compared to subsp. hypogaea.9 It includes four botanical varieties:
+* var. vulgaris: This variety corresponds to the Spanish market type, which originated in the Guaranian region of Brazil, Paraguay, and Uruguay.30 Spanish types are characterized by an upright growth habit, more branches, and pods that usually contain two kernels. They are noted for having a higher oil content, which gives them a distinct nutty flavor, making them ideal for candy, salted nuts, and peanut butter.5 This variety is the most widely cultivated globally, especially in Asia and Africa, accounting for over 80% of the world's peanut planting area.30
+* var. fastigiata: This variety corresponds to the Valencia market type, also originating from regions in Brazil, Paraguay, and Peru.30 Valencia plants are comparatively tall with heavy, reddish stems. Their pods are smooth, lack constriction between the seeds, and typically contain three to five kernels crowded tightly inside. They are often roasted and sold in-shell and are also used for all-natural peanut butter.5
+* var. peruviana and var. aequatoriana: These are less common landrace varieties originating from Peru, Bolivia, and Ecuador. They are distinguished by traits such as deep pod reticulation (a net-like pattern on the shell), pronounced hairiness, and purple stems.9
+The botanical classification is not merely an academic exercise; it has profound agronomic implications. The distinct growth habits, durations, and pod characteristics associated with each subspecies and variety dictate critical farming decisions, including planting density, harvesting methods, and end-market suitability. For instance, the spreading nature of Runner types requires wider row spacing than the compact, upright Spanish types, influencing land use efficiency and weed management strategies.
+Table 2: Botanical Classification and Key Distinguishing Characteristics of Arachis hypogaea
+
+
+Subspecies
+	Botanical Variety
+	Common Market Type
+	Key Morphological Traits
+	Typical Seed/Pod Characteristics
+	Primary Geographic Origin
+	hypogaea
+	var. hypogaea
+	Virginia / Runner
+	No flowers on main stem; alternate branching; spreading habit; long duration.
+	Virginia: Large pods/seeds. Runner: Smaller seeds.
+	Bolivia, Amazon
+	
+
+	var. hirsuta
+	Peruvian Runner
+	Hairy (hirsute) stems and leaves.
+	Pods often contain more than two seeds.
+	Peru
+	fastigiata
+	var. vulgaris
+	Spanish
+	Flowers on main stem; sequential branching; erect/bunch habit; short duration.
+	2 seeds/pod; higher oil content.
+	Brazil, Paraguay, Uruguay
+	
+
+	var. fastigiata
+	Valencia
+	Flowers on main stem; sequential branching; erect/bunch habit; short duration.
+	3-5 seeds/pod; smooth shell; no constriction.
+	Brazil, Paraguay, Peru
+	
+
+	var. peruviana
+	n/a
+	Less hairy; deep pod reticulation.
+	-
+	Peru, Bolivia
+	
+
+	var. aequatoriana
+	n/a
+	Very hairy; deep pod reticulation; purple stems.
+	-
+	Ecuador
+	Source: 9
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+3.3. Detailed Morphology: From Root to Leaf
+
+
+The groundnut plant is an annual herb with a well-defined structure adapted to its unique life cycle.
+* Root System: The plant develops a strong taproot that can penetrate deep into the soil, with numerous lateral roots branching out.40 While the taproot system can extend to depths of 1.8 meters, the majority of the active root mass responsible for water and nutrient uptake is concentrated in the upper 50-60 cm of the soil profile.41 The root system is comprised of a thick primary seminal root and two distinct types of lateral roots: long, first-order laterals that form the main framework, and thinner, shorter second-order laterals that function as "feeder roots".42
+* Root Nodules: A defining feature of the groundnut root system is the presence of symbiotic root nodules.13 These nodules are determinate, meaning they are spherical and cease meristematic activity shortly after initiation.43 Uniquely, they are formed through a "crack-entry" infection process, where
+Bradyrhizobium bacteria enter the root at the sites of lateral root emergence, where the epidermis and cortex are naturally ruptured, rather than through infection of root hairs as seen in many other legumes.42 These nodules house the bacteria that fix atmospheric nitrogen.
+* Stem and Branches: The plant has an herbaceous stem that can range in height from 20 to 100 cm.46 The growth habit varies significantly by subspecies, from the erect, bunch-like structure of subsp.
+fastigiata to the trailing, prostrate (runner) form of subsp. hypogaea.37
+* Leaves: The leaves are arranged alternately on the stem and are compound and pinnate.13 Each leaf consists of four leaflets arranged in two opposite pairs, with no terminal leaflet. The leaflets are typically 1 to 7 cm long, obovate in shape (wider above the middle), and have smooth, entire margins.13 At the base of each leaf petiole, a pair of stipules is present.34
+
+
+3.4. Reproductive Morphology: The Flower and the Peg
+
+
+The reproductive structures of the groundnut are highly specialized to facilitate its geocarpic life cycle.
+   * Inflorescence and Flower: The flowers are borne in spike-like inflorescences located in the axils of the leaves on primary and secondary branches.9 The flower itself is papilionaceous, typical of the legume family, with a distinct pea-like shape. It features a large upper petal (the standard), two lateral petals (the wings), and two lower petals fused to form a keel.9 The petals are typically bright yellow to deep orange.9
+   * Hypanthium: A unique feature is the elongated, tubular structure called the hypanthium or "calyx tube".34 This tube, which can be 2 to 6 cm long, extends from the base of the flower, making it appear to be on a long stalk (pedicel), though it is technically sessile (stalkless).9
+   * Reproductive Organs: The ovary is located at the base of the hypanthium, well below the petals.13 It is unilocular and contains one to three (or more, in Valencia types) ovules.34 A single, long, filamentous style extends from the ovary up through the hollow hypanthium, terminating in a dry, papillate stigma near the anthers.34 The androecium consists of a staminal tube (a monadelphous structure) that encloses the style.34 Self-pollination is the norm, as the stigma and anthers are enclosed within the keel petals, and pollen matures and is shed before the flower opens.34
+   * The Peg (Gynophore): Following successful fertilization, the most remarkable morphological development begins. An intercalary meristem at the base of the ovary becomes active and begins to elongate, forming a positively geotropic, stalk-like structure known as the gynophore, or more commonly, the "peg".13 This peg carries the fertilized ovules at its tip and grows downwards, pushing its way into the soil where the fruit (pod) will ultimately develop.38
+
+
+Section 4: Unique Physiological Traits
+
+
+
+
+4.1. The Phenomenon of Geocarpy: Underground Fruiting
+
+
+The most distinctive physiological trait of the groundnut is geocarpy, a rare reproductive strategy in which fertilization occurs above ground, but the fruit develops and matures underground.13 This characteristic is so fundamental to the species that it is reflected in its scientific name,
+hypogaea, derived from Greek for "under the earth".13 This process is not merely a passive burial but a complex, multi-stage physiological event orchestrated by genetic programming and environmental cues.
+The process begins shortly after successful self-pollination and fertilization in the aerial flower. While the zygote undergoes a few initial divisions to form a pre-embryo, its further development is arrested.49 Instead, the plant's energy is directed to the intercalary meristem located at the base of the ovary. This meristematic tissue activates and begins to divide rapidly, leading to the elongation of a specialized organ called the gynophore, colloquially known as the "peg".48 The peg is a positively geotropic structure, meaning it is physiologically programmed to grow downwards in response to gravity.48 It functions as a conduit, carrying the dormant embryo at its protected tip. This peg elongates, growing away from the plant and towards the soil, a journey that takes approximately 7 to 10 days.38
+The transition from a downward-growing peg to a developing pod is a critical juncture controlled by a precise set of environmental triggers. The resumption of embryo development and the subsequent swelling of the ovary into a pod will not occur unless the peg successfully penetrates the soil. This is because pod initiation is dependent on three key environmental signals: darkness, mechanical resistance, and moisture.50 Light is a powerful inhibitor; a peg that fails to reach the soil will not develop a pod, and a developing pod that is exhumed and exposed to light will cease to grow and turn green.50 The mechanical stimulus of the surrounding soil particles is also essential for normal development.50
+This intricate process is regulated by a complex interplay of plant hormones and light-signaling pathways. Auxin plays a crucial role in the peg's gravitropic response, with polar transport directing the hormone to facilitate downward growth.48 Other hormones, including ethylene, abscisic acid (ABA), and gibberellins (GAs), are also involved in modulating peg elongation and the switch to pod development.48 Light signals, perceived by photoreceptors known as phytochromes (specifically PhyA and PhyB), are responsible for inhibiting embryo and pod development in aerial conditions, ensuring that fruit formation only occurs in the protective subterranean environment.50
+This geocarpic strategy has a profound and unusual consequence for plant nutrition. While most nutrients are transported from the roots to the developing fruit via the plant's vascular system, calcium (Ca2+) is poorly mobile in the phloem. As a result, very little calcium can be translocated from the roots, through the plant, and down the long, thin gynophore to the developing pod.4 To overcome this limitation, the groundnut pod has evolved to absorb calcium and other essential nutrients like boron directly from the surrounding soil through its shell.4 This makes the developing pod function, in essence, like a nutrient-absorbing organ. This physiological necessity creates a critical agronomic requirement: a sufficient supply of soluble calcium must be present in the top few centimeters of soil—the "pegging zone"—during the period of pod formation and filling. A deficiency of calcium in this zone leads to poorly developed pods, unfilled pods (a condition known as "pops"), and low-quality kernels with poor germination potential.4
+
+
+4.2. Symbiotic Nitrogen Fixation: The Role of Bradyrhizobium
+
+
+Like most legumes, groundnut possesses the remarkable ability to form a symbiotic relationship with nitrogen-fixing soil bacteria, thereby converting atmospheric nitrogen (N2​) into a biologically usable form.13 This process is a cornerstone of the groundnut's role in sustainable agriculture, allowing it to thrive in nitrogen-poor soils and enrich the soil for subsequent crops. The primary symbiotic partners for groundnut are slow-growing bacteria belonging to the genus
+Bradyrhizobium.56
+The symbiotic process begins with a complex molecular dialogue between the plant root and the soil bacteria. The groundnut root releases chemical signals, specifically flavonoids, into the rhizosphere. These flavonoids are perceived by compatible Bradyrhizobium bacteria, activating their nodulation (nod) genes. This, in turn, leads to the synthesis and secretion of bacterial signaling molecules called Nod Factors (NF).57
+The infection process in groundnut is distinct from that of many temperate legumes. Instead of the more common mechanism involving root hair curling and the formation of an infection thread, groundnut utilizes a "crack-entry" method.44 The rhizobia colonize the root surface, particularly at the axils where lateral roots emerge. These sites represent natural openings or "cracks" in the root epidermis and cortex, providing a direct pathway for bacterial entry.42 The bacteria then spread intercellularly, moving between the cortical cells by separating the middle lamella. This intercellular pathway means the bacteria are continuously exposed to the plant's defense systems, making bacterial exopolysaccharides (EPS) crucial. EPS are thought to act as a protective shield, helping the bacteria evade or suppress the plant's defense responses during their migration toward the inner cortex.57
+Once inside the root cortex, the bacteria stimulate the plant cells to divide and differentiate, leading to the formation of a specialized organ: the root nodule. Groundnut nodules are classified as determinate and aeschynomenoid-type; they are typically spherical and lack uninfected cells in their central tissue.43 Within the protected environment of the nodule, the bacteria undergo a transformation into a differentiated form called bacteroids. It is these bacteroids that contain the nitrogenase enzyme complex, the molecular machinery responsible for biological nitrogen fixation.43 Using a significant amount of energy supplied by the plant in the form of carbohydrates, the nitrogenase enzyme breaks the strong triple bond of atmospheric nitrogen (
+N2​) and reduces it to ammonia (NH3​).43 This ammonia is then assimilated by the plant to synthesize amino acids, proteins, and other essential nitrogen-containing compounds. This symbiotic relationship can provide most, if not all, of the plant's nitrogen requirements, with estimates of fixation ranging from 24 to over 584 kg of N per hectare per year, depending on the specific legume-rhizobia combination and environmental conditions.56 The efficiency of this process, however, is highly sensitive to environmental factors. Conditions such as drought, soil acidity (low pH), extreme temperatures, and nutrient deficiencies can inhibit rhizobial survival, nodule formation, or nitrogenase activity, thereby compromising the plant's nitrogen-fixing potential.58
+
+
+Section 5: Agronomic Principles and Cultivation Practices
+
+
+
+
+5.1. Ecological Requirements
+
+
+Successful groundnut cultivation is contingent upon a specific set of environmental conditions. While the crop is adaptable, optimizing yield and quality requires careful consideration of climate, soil, and water availability.
+
+
+5.1.1. Climate
+
+
+Groundnut is a warm-season crop best suited to tropical, subtropical, and warm temperate regions.1
+   * Temperature: Temperature is a primary determinant of the crop's developmental rate. The optimal temperature for germination is between 20°C and 30°C, with germination being significantly delayed below 18°C.3 For vegetative growth, the ideal mean diurnal temperature range is 25-30°C.61 However, reproductive processes such as flowering and pod formation are more sensitive, favoring a slightly cooler range of 22-28°C.61 Temperatures exceeding 35°C are detrimental, inhibiting growth and reducing the partitioning of dry matter to the pods.61 A frost-free period of at least 140-160 days is necessary for a successful harvest.3
+   * Rainfall and Humidity: For a rainfed crop, a well-distributed rainfall of 500 to 700 mm over the growing season is required for good yields.14 In semi-arid regions, seasonal rainfall can be as low as 300 mm or as high as 1500 mm, but its distribution is critical.60 Intermittent drought, especially during key growth stages, is a major cause of yield loss. A relative humidity of around 70% during the cropping season is generally favorable.60 However, excessive rain and humidity, particularly near harvest, can reduce the quality of the pods and promote fungal diseases.3
+   * Photoperiod and Altitude: Groundnut is generally considered a day-neutral plant, meaning that the initiation of flowering is not significantly affected by day length.41 However, photoperiod can influence the partitioning of assimilates between vegetative and reproductive parts, with some genotypes showing sensitivity.65 Studies have also found a correlation between the altitude of a population's origin and its sensitivity to photoperiod, with populations from lower altitudes often exhibiting stronger photoperiodic responses.68
+
+
+5.1.2. Soil
+
+
+The unique geocarpic nature of groundnut places specific demands on the soil, particularly its physical properties.
+   * Texture: The ideal soil is a well-drained, light-colored sandy loam, loamy sand, or sandy clay loam.3 These loose, friable textures are critical for several reasons: they allow for easy penetration of the pegs into the soil, provide good aeration for developing pods, prevent waterlogging, and minimize pod loss during harvesting, as pegs are less likely to break off in lighter soils.3 Heavy clay soils are generally unsuitable as they can impede peg penetration and make harvesting difficult, leading to significant yield losses.25
+   * Soil pH: Groundnut performs best in soils with a pH ranging from 6.0 to 6.5, though it can tolerate a range of 5.5 to 7.5.25 Soil pH is a critical factor as it directly affects the availability of essential nutrients and the activity of nitrogen-fixing rhizobia.69
+   * Acidic Conditions (pH < 5.8): In highly acidic soils, the availability of macronutrients like phosphorus decreases, while micronutrients such as zinc and manganese can become soluble to toxic levels. Zinc toxicity, characterized by stunted growth and split stems, is a risk in low-pH soils.72 Furthermore, low pH inhibits the survival and effectiveness of
+Bradyrhizobium, impairing nitrogen fixation.74 Liming with materials like calcium carbonate or dolomite is often necessary to raise the pH of acidic soils into the optimal range.69
+   * Alkaline Conditions (pH > 7.0): In alkaline soils, the availability of micronutrients like manganese and iron is reduced, which can lead to deficiency symptoms such as chlorosis (yellowing of leaves) and reduced yields.72
+
+
+5.1.3. Abiotic Stress Tolerance
+
+
+While adapted to semi-arid environments, groundnut productivity is significantly constrained by various abiotic stresses.
+      * Drought: Although considered fairly drought-tolerant, groundnut is highly vulnerable to water stress at critical reproductive stages, including flowering, pegging, and pod filling.10 Drought during these periods can cause flower abortion, impaired peg penetration, and poor pod development, leading to yield losses of up to 85%.76 It also exacerbates the risk of pre-harvest aflatoxin contamination.10 Conversely, mild water stress during the early vegetative phase can sometimes be beneficial, inducing profuse flowering once irrigation is resumed.76
+      * Salinity: Groundnut is classified as a moderately salt-sensitive species.78 High soil salinity creates osmotic stress, making it difficult for the plant to take up water, and can lead to ion toxicity, which impairs growth and reduces yield.79
+      * Flooding/Waterlogging: Excessive soil moisture is detrimental. Waterlogged conditions deprive the roots and symbiotic bacteria of oxygen, inhibiting nitrogen fixation and leading to unhealthy, yellowed plants.41 It also promotes pod rot diseases and can make harvesting difficult.3
+      * Temperature Stress: The crop is sensitive to both low temperatures (chilling/frost) and high temperatures (heat stress).78 Low temperatures can damage seedlings, while high temperatures, especially during the reproductive phase, can severely reduce pod set and yield.78
+
+
+5.2. Land Preparation and Soil Management
+
+
+Proper land preparation is fundamental to establishing a healthy groundnut crop, creating a suitable seedbed for germination and an optimal environment for peg penetration and pod development.
+
+
+5.2.1. Tillage Operations
+
+
+Tillage practices for groundnut aim to create a deep, loose, and clod-free tilth. The choice between conventional and conservation tillage methods involves trade-offs between weed/disease control, cost, and soil health.
+      * Conventional Tillage: This traditionally involves deep ploughing (15-20 cm) with a moldboard plow, followed by several passes with a disk harrow to break up clods and create a fine seedbed.69 The primary advantage of deep ploughing is that it buries crop residues from the previous season. This is a critical practice for groundnut, as undecomposed plant residues on the soil surface can harbor soil-borne fungal pathogens that cause pod rot diseases, negatively impacting both yield and quality.3 Conventional tillage provides excellent soil segregation, which facilitates easy peg entry and pod development.85 However, it is energy-intensive, costly, and can increase the risk of soil erosion and moisture loss.86
+      * Conservation/Minimum Tillage: These practices, such as strip tillage, aim to minimize soil disturbance. In strip tillage, only a narrow strip (20-30 cm wide) in the seed row is tilled, while the area between rows is left undisturbed with a cover crop or crop residue mulch.87 The benefits include reduced soil erosion, improved water infiltration and retention, enhanced soil organic matter, and lower fuel and labor costs.86 Studies have shown that strip tillage can significantly improve water-use efficiency, especially in very dry or very wet years.87 However, minimum tillage systems can present challenges, including difficulty in controlling certain weeds and a potential increase in some soil-borne pests. Research has shown mixed results, with some studies reporting lower yields under no-tillage due to soil compaction and weed competition, while others find no yield reduction, particularly in sandy loam soils with good moisture retention.90
+
+
+5.2.2. Sowing Methods: Beds vs. Ridges vs. Flat
+
+
+The method of seedbed formation significantly impacts drainage, soil aeration, and ease of intercultural operations.
+      * Flatbed Sowing: Sowing on a flat, level surface is the simplest method but can be problematic in areas with heavy rainfall or poor drainage, as it is prone to waterlogging.91 Studies consistently show that flatbed sowing results in lower growth, fewer pegs, and lower yields compared to raised systems.91
+      * Ridges and Furrows: This method involves sowing the crop on raised ridges separated by furrows. The furrows serve as channels for irrigation and drainage, preventing waterlogging around the plant base.93 Planting on ridges has been shown to improve soil aeration and moisture availability, leading to better root nodulation, higher peg numbers, and yield enhancements of 8-23% over flatbed sowing.91 This method can also save 25-30% on seed and water and 25% on fertilizer, resulting in a significantly higher benefit-cost ratio.93
+      * Raised Beds: This is an improvement on the ridge system, creating wider, permanent or semi-permanent beds that can accommodate multiple rows of the crop.93 Raised beds offer superior drainage and soil aeration, reduce soil compaction (as traffic is confined to the furrows), and can increase the productive land area compared to a traditional ridge-and-pathway system.94 Sowing on raised beds often leads to the highest growth attributes and yields, outperforming conventional ridge planting in many studies.91
+
+
+5.3. Crop Establishment: Varieties, Seed Treatment, and Sowing
+
+
+
+
+5.3.1. Cropping Seasons in India
+
+
+India's diverse climate allows for groundnut cultivation in multiple seasons, ensuring year-round availability.18 The primary seasons are:
+      * Kharif (Monsoon Season): This is the main growing season, accounting for approximately 80-90% of the country's total groundnut area and production.97 Sowing typically occurs with the onset of the southwest monsoon from June to July, and harvesting takes place from September to October.98 This season is predominantly rainfed.
+      * Rabi (Post-Monsoon/Winter Season): Cultivated from October-November to February-March, this season relies on residual soil moisture from the monsoon or irrigation.101 Rabi groundnut generally has higher productivity than the Kharif crop due to better water management and lower pest and disease pressure.104
+      * Summer (Zaid Season): Grown from March to June, this is a short-duration crop cultivated entirely under irrigated conditions after the harvest of Rabi crops.100
+
+
+5.3.2. Variety Selection
+
+
+The selection of an appropriate variety is one of the most critical decisions in groundnut cultivation, as it sets the yield potential and determines the crop's suitability for a specific environment and market.
+      * Traditional Landraces vs. Improved Varieties: While traditional landraces, which are local varieties adapted over long periods, offer genetic diversity and stability in stressful environments, they often have low yield potential.105 Modern agricultural research has focused on developing improved high-yielding varieties (HYVs) that offer significantly higher productivity, better resistance to major pests and diseases, and desirable quality traits like high oil or high oleic acid content.61
+      * Climate-Resilient and Biofortified Varieties: In response to climate change, significant efforts are underway to develop climate-resilient varieties with enhanced tolerance to drought, heat, and diseases like groundnut rosette.109 Organizations like ICRISAT have released numerous such varieties in Africa and Asia.109 Additionally, biofortified varieties are being developed to address micronutrient malnutrition. In India, the Indian Council of Agricultural Research (ICAR) has released varieties enriched with iron and zinc, and notably, high oleic acid varieties like 'Girnar 4' and 'Girnar 5' which offer improved health benefits and longer shelf-life for processed products.111
+      * Key Varieties in India: India has a vast portfolio of notified groundnut varieties suitable for different agro-climatic zones and seasons. The choice depends on the region; for example, 'Kadiri-6' and 'Narayani' are popular in Andhra Pradesh, while 'GG-20' is dominant in Gujarat.115 A comprehensive list of varieties is crucial for farmers and extension agents to make informed decisions.
+Table 4: Characteristics of Selected Notified Groundnut Varieties in India
+
+
+Variety
+	Year of Release
+	Recommended States/Regions
+	Yield Potential (kg/ha)
+	Oil Content (%)
+	Key Characteristics
+	Girnar 4 (ICGV 15083)
+	2019
+	Gujarat, Rajasthan, AP, Karnataka, TN
+	3,220
+	53.0
+	High Oleic Acid (~78.5%), Kharif season, 112 days duration 113
+	Girnar 5 (ICGV 15090)
+	2019
+	Gujarat, Rajasthan, AP, Karnataka, TN
+	3,220
+	53.0
+	High Oleic Acid (~78.4%), Kharif season, 112 days duration 113
+	Kadiri 9
+	2009
+	Andhra Pradesh
+	2,500-3,000
+	52
+	Tolerant to thrips, jassids, nematodes, LLS, rust, and rots 116
+	GG-20
+	1992
+	Gujarat, Rajasthan
+	~1,538 (check)
+	-
+	Semi-spreading, popular in Gujarat 115
+	TMV (Gn) 13
+	2006
+	Tamil Nadu
+	2,147
+	51.4
+	Red kernels, drought tolerant, 95 days duration 118
+	Dharani (TCGS-1043)
+	2013
+	Andhra Pradesh
+	2,996
+	49
+	Suitable for Kharif, Rabi, and Summer seasons 116
+	Ajeya (R 2001-3)
+	2008
+	S. Maharashtra, Karnataka, AP, TN
+	2,440
+	46-48
+	Drought tolerant, resistant to Peanut Bud Necrosis Disease (PBND) 116
+	Kadiri Harithandhra
+	2010
+	Karnataka, Maharashtra
+	3,728
+	48
+	Multiple pest/disease resistant, 20-day dormancy, for Rabi/Summer 116
+	Source: ICAR, TNAU, JAU 113
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+5.3.3. Seed Selection and Treatment
+
+
+Using high-quality seed is a non-negotiable prerequisite for a successful crop.
+      * Seed Selection: Farmers should use certified seeds from reliable sources whenever possible. The seed should be well-matured, uniform in size, and free from mechanical damage, as split or damaged kernels will not germinate.83 A germination test should be conducted before sowing, and only seed lots with over 90% germination should be used; otherwise, the seed rate must be increased to compensate.83
+      * Seed Treatment: Treating seeds before sowing is a low-cost, highly effective practice to protect the crop during its vulnerable seedling stage.
+      * Fungicidal Treatment: To protect against seed- and soil-borne diseases like collar rot and root rot, seeds should be treated with fungicides such as Thiram, Mancozeb, or Carbendazim.92 Biological agents like
+Trichoderma viride or Pseudomonas fluorescens are effective organic alternatives.120
+      * Insecticidal Treatment: In areas with a high incidence of soil pests like white grubs or sucking pests that transmit viruses (e.g., thrips), seed treatment with an insecticide like Imidacloprid is recommended.83
+      * Rhizobium Inoculation: In fields where groundnut has not been grown recently or in virgin soils, seeds should be inoculated with an efficient strain of Bradyrhizobium culture to ensure effective nodulation and nitrogen fixation.83
+      * Sequence of Treatment: When multiple treatments are applied, the correct sequence is critical: insecticide first, followed by fungicide, and finally the biofertilizer (Rhizobium) just before sowing, as fungicides can be harmful to the bacteria.83
+
+
+5.3.4. Sowing and Plant Population
+
+
+         * Sowing Methods: While broadcasting is a traditional method, it results in uneven plant distribution and makes intercultural operations difficult.92 Line sowing is highly recommended. This can be done manually behind a plough or, more efficiently, using a mechanized seed drill.122 Seed drills ensure uniform spacing and depth (typically 5-6 cm), leading to better germination and crop stand.92
+         * Plant Population and Spacing: Achieving the optimal plant population density is crucial for maximizing light interception, utilizing resources efficiently, and suppressing weeds. The ideal density varies with variety and growing conditions.
+         * General Recommendations: In the US, a population of 4-5 plants per foot of row (approximately 13-16 plants/m²) is recommended.124 Studies in Ghana suggest densities from 16 to 33 plants/m² can be optimal depending on the season.125 In Turkey, densities as high as 28.5 plants/m² have yielded the best results.126
+         * Spacing by Variety Type: Spreading/runner varieties require wider spacing (e.g., 30-45 cm between rows) than erect/bunch varieties (e.g., 20-30 cm between rows) to accommodate their growth habit.92 Plant-to-plant spacing within a row is typically 8-15 cm.92 Closer spacing generally leads to higher yields per unit area and better weed control due to quicker canopy closure, but can increase competition for resources.127
+
+
+5.4. Integrated Nutrient Management (INM)
+
+
+Groundnut is an energy-rich crop with high nutrient requirements, removing significant quantities of nutrients from the soil. A balanced and integrated approach to nutrient management, combining organic, inorganic, and biological sources, is essential for sustaining high productivity and maintaining long-term soil health.
+
+
+5.4.1. Macronutrient Requirements (NPK)
+
+
+To produce one tonne of pods, a groundnut crop requires approximately 58 kg of Nitrogen (N), 5 kg of Phosphorus (P), and 18 kg of Potassium (K).129
+         * Nitrogen (N): As a legume, groundnut can fix a large portion of its own nitrogen. However, a small starter dose of N (10-25 kg/ha) is often recommended as a basal application.120 This provides the young plant with nitrogen before the root nodules become fully functional, ensuring vigorous early growth.
+         * Phosphorus (P): Phosphorus is critical for root development, energy transfer, and nodulation. A deficiency can severely limit growth and nitrogen fixation. Recommended doses typically range from 40 to 60 kg P2​O5​/ha, applied as a basal dose.129 Applying P through sources like single superphosphate (SSP) is often preferred as it also supplies calcium and sulphur.130
+         * Potassium (K): Potassium is vital for overall plant health, water regulation, and disease resistance. Recommended doses range from 40 to 75 kg K2​O/ha.129 However, excessive potassium in the pegging zone can interfere with calcium uptake by the pods, leading to poor kernel development. Therefore, soil testing is crucial to avoid over-application.3
+
+
+5.4.2. Secondary and Micronutrients
+
+
+         * Calcium (Ca): Calcium is arguably the most critical nutrient for groundnut quality. As discussed previously, the developing pod absorbs calcium directly from the soil. An adequate supply of soluble calcium in the pegging zone is essential for proper seed development, strong shells, and high germination rates.4 Calcium deficiency is a primary cause of "pops" (empty pods) and blackened plumules.4 The standard recommendation is to apply gypsum (calcium sulfate) at a rate of 200-500 kg/ha as a side dressing or band application at the peak flowering stage (around 45 days after sowing) to ensure availability during pod formation.69
+         * Sulphur (S): As an oilseed crop, groundnut has a relatively high requirement for sulphur, which is a component of oil-synthesizing amino acids. Application of gypsum also provides adequate sulphur.69
+         * Micronutrients: Deficiencies of micronutrients like Zinc (Zn) and Boron (B) can limit yields. Zinc deficiency can cause stunted growth, while boron is important for flowering and pod set. Soil application of zinc sulfate (10-25 kg/ha) once every few years or borax (3-10 kg/ha) can correct deficiencies where they exist.69
+
+
+5.4.3. Organic Manures and Biofertilizers
+
+
+Integrated Nutrient Management (INM) emphasizes the conjunctive use of all available nutrient sources to maintain soil fertility and crop productivity sustainably.132
+         * Organic Manures: Groundnut responds very well to residual fertility. Applying well-decomposed Farm Yard Manure (FYM), compost, or vermicompost at rates of 5-12.5 t/ha improves soil structure, water-holding capacity, and microbial activity, while supplying a slow-release source of nutrients.130
+         * Biofertilizers: These are microbial inoculants that enhance nutrient availability.
+         * Rhizobium: Seed or soil inoculation with efficient strains of Bradyrhizobium is essential for maximizing biological nitrogen fixation, especially in fields new to groundnut.120
+         * Phosphate Solubilizing Bacteria (PSB): These bacteria convert insoluble soil phosphates into forms that plants can absorb, thereby improving phosphorus use efficiency.137
+
+
+5.4.4. INM Recommendations
+
+
+Numerous studies have demonstrated the superiority of INM over the sole application of either organic or inorganic fertilizers. A common and effective recommendation is to substitute a portion of the recommended dose of fertilizers (RDF) with organic sources and supplement with biofertilizers. For example, applying 75% RDF combined with FYM (5 t/ha) or vermicompost (2 t/ha) and inoculation with Rhizobium and PSB has been shown to produce yields equal to or greater than 100% RDF, while also improving soil health parameters like organic carbon and available nutrient status.132 This integrated approach leads to higher productivity, profitability, and long-term agricultural sustainability.
+Table 3: General Integrated Nutrient Management Plan for Groundnut
+
+
+Nutrient/Source
+	Recommended Dose/Rate
+	Timing and Method of Application
+	Purpose
+	Organic Manure
+	FYM/Compost @ 10-12.5 t/ha
+	Basal, incorporated into the soil during last ploughing.
+	Improves soil structure, water retention, and provides slow-release nutrients.
+	Nitrogen (N)
+	10-25 kg/ha
+	Basal, at the time of sowing.
+	Provides initial N supply before nodulation is established.
+	Phosphorus (P)
+	40-60 kg P2​O5​/ha
+	Basal, at the time of sowing.
+	Promotes root growth and nodulation.
+	Potassium (K)
+	40-75 kg K2​O/ha
+	Basal, at the time of sowing.
+	Enhances overall plant health and stress resistance.
+	Calcium (Ca)
+	Gypsum @ 250-500 kg/ha
+	Side dressing or band application at peak flowering (~45 DAS).
+	Essential for pod development and preventing "pops".
+	Sulphur (S)
+	Provided by Gypsum or SSP
+	Applied with Ca or P source.
+	Crucial for oil synthesis.
+	Zinc (Zn)
+	Zinc Sulfate @ 10-25 kg/ha
+	Basal, once every 3 years.
+	Corrects deficiency, essential for enzyme function.
+	Boron (B)
+	Borax @ 3-10 kg/ha
+	Basal or as foliar spray.
+	Important for flowering and pod set.
+	Rhizobium
+	Seed treatment (600 g/ha) or soil application (2 kg/ha)
+	Treat seeds just before sowing or apply with FYM.
+	Enhances biological nitrogen fixation.
+	PSB
+	Seed treatment or soil application
+	Apply with Rhizobium or FYM.
+	Improves availability of soil phosphorus.
+	Note: Doses are general recommendations and should be adjusted based on soil test results. 69
+	
+
+	
+
+	
+
+	
+
+	
+
+5.5. Water Management: A Comparative Analysis of Irrigation Methods
+
+
+Water is a critical input for groundnut production, with the crop requiring a total of 500-700 mm during its growth cycle.41 While groundnut is grown extensively under rainfed conditions, productivity is often low and erratic due to unpredictable rainfall.142 Providing supplemental irrigation, especially during the critical stages of flowering, pegging, and pod development, can dramatically increase and stabilize yields.64 The choice of irrigation method has a profound impact on water use efficiency (WUE), yield, and economic viability.
+         * Surface (Furrow/Flood) Irrigation: This is the most traditional method, where water is allowed to flow over the soil surface in furrows or basins.77 While it has low initial investment costs, it is the least efficient method. Significant water is lost to evaporation, deep percolation, and runoff, leading to uneven water distribution and low WUE.143 Studies have shown that surface irrigation results in lower yields and considerably lower WUE (e.g., 10.6 kg ha-mm⁻¹) compared to modern methods.145
+         * Sprinkler Irrigation: Sprinkler systems apply water over the crop canopy, simulating rainfall. They offer much better water distribution uniformity and higher efficiency than surface methods.77 Micro-sprinklers, in particular, can be highly efficient, although their performance can be affected by wind and crop height.146 Research indicates that sprinkler irrigation leads to higher yields and better WUE than surface methods. For example, one study found sprinkler irrigation increased crop productivity by 13.7% and water savings by 38.3% compared to strip surface irrigation.146 However, sprinkler systems can result in higher evaporative losses from wet foliage and soil surfaces compared to drip irrigation.143
+         * Drip Irrigation: This is the most efficient method of irrigation. Water is delivered slowly and directly to the plant's root zone through a network of pipes and emitters.77 This minimizes losses from evaporation and runoff, leading to the highest WUE. Studies have consistently demonstrated the superiority of drip irrigation for groundnut, resulting in the highest pod yields and WUE (e.g., 21.0 kg ha-mm⁻¹).143 Drip systems also allow for fertigation—the precise application of water-soluble fertilizers with the irrigation water—which further enhances nutrient use efficiency and crop performance.148 While drip irrigation has the highest initial investment cost, its significant water savings (up to 44% over surface methods) and yield increases (up to 22.6% over surface methods) often make it the most economically viable option in water-scarce regions.146
+In summary, while surface irrigation remains common due to its low cost, a transition to pressurized systems like sprinkler and particularly drip irrigation is crucial for improving water productivity in groundnut cultivation. The optimal choice depends on factors like water availability, soil type, capital investment capacity, and local economic conditions.
+
+
+5.6. Integrated Weed Management (IWM)
+
+
+Weeds are a major biotic constraint in groundnut production, competing with the crop for essential resources like water, nutrients, and sunlight. The groundnut plant, with its initial slow growth and prostrate habit in some varieties, is a poor competitor against weeds. The critical period for weed competition is the first 3 to 6 weeks after sowing (WAS).83 If weeds are not controlled during this window, irreversible yield losses can occur. An integrated approach that combines cultural, mechanical, and chemical methods is the most effective and sustainable strategy for weed management.
+         * Cultural Methods: These are preventive measures that create an environment less favorable for weeds.
+         * Land Preparation: Thorough pre-plant tillage helps destroy the initial flush of weeds and creates a clean seedbed.120
+         * Crop Rotation: Rotating groundnut with other crops helps to break the life cycles of specific weeds associated with groundnut cultivation.89
+         * Planting Density and Spacing: Adopting optimal plant spacing and density allows for rapid canopy closure, which shades out and suppresses the growth of late-emerging weeds.65
+         * Mulching: Applying straw or other organic mulches, or using polyethylene mulch films, can effectively suppress weeds by blocking sunlight.123
+         * Mechanical Methods: This involves the physical removal of weeds.
+         * Hand Weeding and Hoeing: This is a common and effective method, especially for small-scale farmers. Two rounds of hand weeding, typically at 20 and 40 days after sowing (DAS), are recommended if no herbicides are used.120 Intercultural operations with implements like hoes can also be effective. However, it is crucial to avoid any mechanical disturbance after 45 DAS to prevent damage to the developing pegs and pods.83
+         * Chemical Methods (Herbicides): Herbicides offer an efficient and cost-effective solution for weed control, especially on large farms.
+         * Pre-emergence Herbicides: These are applied to the soil immediately after sowing or within 2-3 days, before the crop or weeds emerge. Commonly recommended pre-emergence herbicides for groundnut include Pendimethalin and Fluchloralin.83 These herbicides form a chemical barrier on the soil surface that kills germinating weed seedlings.
+         * Post-emergence Herbicides: These are applied after the crop and weeds have emerged. Herbicides like Imazethapyr can be used to control weeds that escape pre-emergence application or emerge later.83
+The most effective strategy is often the integration of chemical and mechanical methods. For example, a pre-emergence herbicide application followed by one hand weeding at 30-40 DAS provides broad-spectrum, season-long weed control and consistently results in higher pod yields.120
+
+
+Section 6: Crop Protection: Pests and Diseases
+
+
+
+
+6.1. Major Insect Pests and Their Management
+
+
+Groundnut crops are susceptible to a wide range of insect pests that can cause significant economic losses by damaging roots, foliage, pegs, and pods. Pests can be broadly categorized into foliage feeders, subterranean (soil-dwelling) pests, and sucking pests, which are often vectors for viral diseases.
+
+
+6.1.1. Foliage Feeders (Defoliators)
+
+
+         * Groundnut Leaf Miner (Aproaerema modicella): This is a major pest, particularly in Asia and Africa. The young larvae "mine" into leaflets, feeding on the internal tissues and creating brown patches. Older larvae web leaves together and feed from within the folds, giving the crop a burnt appearance in severe infestations.149
+         * Tobacco Caterpillar (Spodoptera litura): The young larvae feed gregariously, scraping the leaf surface, while older larvae are voracious defoliators, capable of stripping plants of all foliage.152 They are nocturnal and hide in the soil during the day.
+         * Red Hairy Caterpillar (Amsacta albistriga, A. moorei): This is a highly destructive, polyphagous pest. The caterpillars feed voraciously on leaves and can migrate in large numbers from field to field, causing widespread devastation.151
+         * Gram Pod Borer (Helicoverpa armigera): While primarily a pod borer in other crops, in groundnut, the larvae feed on foliage, flowers, and buds, causing damage that can reduce pod set.151
+
+
+6.1.2. Subterranean Pests (Root and Pod Feeders)
+
+
+         * White Grubs (Holotrichia spp.): These are the larvae of scarab beetles and are among the most destructive soil pests. They feed on rootlets, main roots, and developing pods, causing plants to wilt and die in patches.152
+         * Termites (Odontotermes spp.): Termites attack the root system, hollowing out the taproot and causing plant death. They also scarify the pod surface, creating entry points for fungal pathogens like Aspergillus flavus, and can damage kernels directly.152
+         * Lesser Cornstalk Borer (Elasmopalpus lignosellus): This pest is particularly problematic in hot, dry conditions. The larvae live in silken tubes at the base of the plant and bore into stems, pegs, and pods, causing significant damage.155
+
+
+6.1.3. Sucking Pests
+
+
+         * Thrips (Scirtothrips dorsalis, Frankliniella schultzei): These tiny insects feed on young, folded leaflets and flowers, causing distortion and scarring. Their primary threat is as a vector for the devastating Peanut Bud Necrosis Virus (PBNV).152
+         * Aphids (Aphis craccivora): These pests colonize young shoots and pegs, sucking sap and causing stunted growth. They are major vectors for the Groundnut Rosette Virus and Peanut Stripe Virus.152
+         * Leafhoppers/Jassids (Empoasca kerri): Both nymphs and adults suck sap from the underside of leaves, injecting toxins that cause a characteristic "hopper burn"—a V-shaped yellowing at the leaflet tip.153
+
+
+6.2. Major Diseases (Fungal, Viral, Bacterial) and Control Strategies
+
+
+Diseases are a major constraint to groundnut production worldwide, with fungal diseases being the most prevalent.
+
+
+6.2.1. Fungal Diseases
+
+
+         * Early Leaf Spot (ELS) and Late Leaf Spot (LLS): Caused by Cercospora arachidicola and Phaeoisariopsis personata (perfect stage Mycosphaerella spp.), respectively, these are the most widespread and economically damaging diseases of groundnut.157 ELS typically appears as brown lesions with a yellow halo on the upper leaf surface, while LLS produces darker, nearly black spots on the lower leaf surface, often without a halo. Together, they can cause severe defoliation, reducing photosynthetic capacity and leading to yield losses of over 50-70%.157
+         * Rust: Caused by Puccinia arachidis, this disease appears as orange-colored pustules on the lower leaf surface. Unlike leaf spots, rust-infected leaves tend to become necrotic and remain attached to the plant. It can spread rapidly and cause severe yield loss, especially when it occurs in conjunction with leaf spots.157
+         * Collar Rot and Crown Rot: Caused by Aspergillus niger and Aspergillus pulverulentum, these are soil-borne diseases that affect seedlings and mature plants. Collar rot causes pre- and post-emergence damping-off, with a characteristic rotting at the collar region covered by black fungal spores. Crown rot affects the base of the plant, leading to wilting and death.157
+         * Aspergillus flavus and Aflatoxin Contamination: While A. flavus can cause a disease known as yellow mold, its primary threat is the production of aflatoxins, potent mycotoxins that are carcinogenic to humans and animals. The fungus infects pods in the field, particularly when the crop is subjected to late-season drought and heat stress, and can proliferate during improper post-harvest drying and storage.157
+
+
+6.2.2. Viral Diseases
+
+
+         * Groundnut Rosette Disease (GRD): Prevalent in Africa, this is one of the most destructive viral diseases. It is caused by a complex of viruses transmitted by the groundnut aphid (Aphis craccivora). Symptoms include severe stunting, mosaic patterns, and a "rosette" or "witch's broom" appearance of the plant.153
+         * Peanut Bud Necrosis Virus (PBNV): A major disease in South and Southeast Asia, PBNV is transmitted by thrips. Symptoms include necrotic spots on young leaves, necrosis of the terminal bud, and severe stunting of the plant.153
+
+
+6.3. Integrated Pest Management (IPM) Framework for Groundnut
+
+
+An Integrated Pest Management (IPM) approach is essential for the sustainable management of groundnut pests and diseases. IPM combines cultural, mechanical, biological, and chemical control methods to keep pest populations below economically damaging levels while minimizing risks to human health and the environment.158
+Table 5: Integrated Pest and Disease Management (IPDM) Framework for Groundnut
+
+
+Stage
+	Practice/Method
+	Target Pest/Disease
+	Rationale and Details
+	Pre-Sowing
+	Deep summer ploughing
+	Soil-borne pests (white grubs, pupae of defoliators), soil-borne pathogens
+	Exposes dormant stages of pests and pathogens to sunlight and predators, reducing initial inoculum.153
+	
+
+	Selection of resistant/tolerant varieties
+	Leaf spots, rust, rosette, PBNV, aflatoxin contamination
+	The most cost-effective and sustainable management method. Varieties like Serenut 2 (rosette resistant) and others are available.157
+	
+
+	Field sanitation
+	Soil-borne diseases, termites
+	Removal and destruction of crop residues and volunteer plants from the previous season eliminates overwintering sites for pathogens and food sources for termites.153
+	
+
+	Crop rotation
+	Soil-borne diseases (pod rot), nematodes
+	Rotating with non-host crops like cereals (maize, sorghum) breaks the life cycle of pathogens and pests specific to groundnut.89
+	Sowing
+	Seed treatment
+	Seed- and soil-borne fungi (collar rot), sucking pests (thrips, aphids), soil pests (white grubs)
+	Protects seedlings during the vulnerable germination and early growth stages. Use a combination of fungicide (e.g., Mancozeb), insecticide (e.g., Imidacloprid), and bio-agents (Trichoderma).162
+	
+
+	Timely and synchronous sowing
+	Leaf miner, thrips, rosette disease, leaf spots
+	Early sowing can help the crop escape peak pest populations and unfavorable weather conditions that promote disease.149
+	
+
+	Intercropping/Border cropping
+	Thrips, leafhoppers, Spodoptera, Helicoverpa
+	Intercropping with cereals like pearl millet (4:1 ratio) acts as a barrier to the movement of sucking pests. Planting trap crops like castor or sunflower on borders attracts defoliators for targeted control.149
+	Vegetative & Reproductive
+	Pest monitoring (scouting, traps)
+	All major pests
+	Regular field scouting and use of pheromone traps (for Spodoptera, Helicoverpa, leaf miner) and light traps (for hairy caterpillars) to monitor pest populations and apply control measures only when Economic Threshold Levels (ETLs) are reached.158
+	
+
+	Mechanical control
+	Hairy caterpillars, Spodoptera
+	Collection and destruction of egg masses and gregarious early-instar larvae is highly effective and reduces the need for chemical sprays.151
+	
+
+	Biological control
+	Aphids, defoliators
+	Conservation and release of natural enemies like ladybird beetles, spiders, Chrysoperla (for aphids), and parasitoids (Trichogramma).153 Application of biopesticides like NPV (for
+	Helicoverpa, Spodoptera) and Bacillus thuringiensis (Bt).151
+	
+
+	Need-based chemical application
+	All major pests and diseases
+	Use of chemical pesticides should be a last resort, based on ETLs. Select appropriate and relatively safer insecticides (e.g., Dimethoate for sucking pests) and fungicides (e.g., Mancozeb, Carbendazim for leaf spots).149
+	Post-Harvest
+	Timely and proper harvesting
+	Termites, aflatoxin
+	Delayed harvesting increases the risk of termite damage and aflatoxin contamination, especially in dry soil conditions.153
+	
+
+	Proper drying and storage
+	Storage pests (bruchids, flour beetles), Aspergillus flavus
+	Rapidly drying pods to a safe moisture level (7-8%) and storing them in clean, cool, and well-ventilated conditions is critical to prevent mold growth and insect infestation.152
+	
+
+Section 7: Harvesting, Post-Harvest Handling, and Quality Control
+
+
+
+
+7.1. Determining Optimal Maturity: Indices and Techniques
+
+
+Determining the correct time to harvest is one of the most critical decisions in groundnut cultivation, directly influencing yield, quality, and economic returns. Because the pods mature underground, visual inspection of the foliage alone is often insufficient. The indeterminate flowering habit of the groundnut plant means that pods on a single plant are at various stages of maturity. Harvesting too early results in a high proportion of immature, shriveled kernels with low oil content and poor flavor. Harvesting too late leads to significant field losses as pegs of over-mature pods become brittle and break off during lifting, leaving pods in the soil. Late harvesting also increases the risk of aflatoxin contamination.164
+Several methods have been developed to more accurately determine optimal maturity:
+         * Foliage and Plant Symptoms: General indicators include the yellowing of vines and the shedding of older leaves. However, these can be misleading, as leaf diseases or drought can cause similar symptoms.164
+         * Shell-Out Method: This traditional method involves randomly sampling plants, hand-shelling the pods, and observing the internal color of the pod shell and the color of the seed coat (testa). In mature pods, the inside of the shell turns dark brown or black, and the seed coat develops its characteristic color (e.g., pink or red). A crop is generally considered ready for harvest when 70-80% of the pods on sampled plants show these signs of maturity.63
+         * Hull Scrape Method and Maturity Profile Board (MPB): This is a more refined and widely accepted method, particularly in the United States. It involves collecting a representative sample of 180-200 pods from a field. The outer layer of the pod (exocarp) is scraped or pressure-washed off to reveal the color of the middle layer (mesocarp). The pods are then sorted by color against a standardized Maturity Profile Board, which has color classes ranging from white/yellow (immature) to orange, brown, and black (mature). The distribution of pods across these color classes provides a precise profile of the crop's maturity and can be used to predict the optimal number of days until digging.167 The goal is to harvest when the maximum number of pods are in the brown and black categories.
+
+
+7.2. Harvesting and Threshing Operations
+
+
+Harvesting groundnuts is a two-step process: digging (or lifting) the plants from the soil, and then threshing (or stripping) the pods from the plants.
+         * Digging/Lifting: The method of lifting depends on the soil type, moisture content, and scale of operation. In loose, sandy soils, plants can sometimes be pulled by hand. More commonly, a hand hoe, a modified ox-drawn plough, or a tractor-drawn digger-inverter is used to cut the taproot below the pod zone and lift the entire plant.164 The digger-inverter simultaneously lifts the plants and inverts them, leaving them in windrows with the pods exposed to the sun and air for initial field drying.164 It is crucial that the soil has adequate moisture at the time of digging; if the soil is too dry, it becomes hard, and many pods will break off and be lost.165
+         * Threshing/Stripping: After a period of field drying (curing), the pods must be separated from the vines. This can be done manually by hand-plucking, which is labor-intensive but allows for sorting of pods.164 On a larger scale, mechanical threshers are used, which can process large volumes quickly.170
+
+
+7.3. Drying, Curing, and Storage
+
+
+Proper drying and curing are essential post-harvest steps to reduce the moisture content of the pods to a safe level for storage, which prevents mold growth, preserves quality, and minimizes the risk of aflatoxin development.
+         * Curing and Drying: Curing begins in the field immediately after digging, where the inverted plants are left in windrows for several days to wilt and allow the pod moisture content to drop from over 35% to a more stable level.164 After threshing, the pods are further dried. This can be done by spreading them in thin layers on mats or tarpaulins for sun-drying, or by using mechanical dryers with forced heated or unheated air.166 The goal is to reduce the kernel moisture content to 7-10% for safe storage.165 Rapid drying at excessively high temperatures should be avoided as it can make kernels brittle and affect flavor.164
+         * Storage: For long-term storage, it is highly recommended to store groundnuts as intact pods rather than shelled kernels, as the shell provides significant protection against insect pests and moisture fluctuations.165 The ideal storage conditions are a cool, dry, and well-ventilated environment, with a temperature of 10-15°C and relative humidity of 65-70%.165 Pods are typically stored in gunny bags stacked on pallets to allow for air circulation and prevent contact with the floor.166 Hermetic storage technologies, such as PICS bags, which create a low-oxygen environment, are also effective for preventing insect damage without the use of chemicals.165
+
+
+7.4. Aflatoxin Contamination: A Critical Post-Harvest Challenge and Its Management
+
+
+Aflatoxin contamination is one of the most significant challenges facing the global groundnut industry. Aflatoxins are highly toxic and carcinogenic compounds produced by certain species of fungi, primarily Aspergillus flavus and Aspergillus parasiticus. Contamination can occur in the field (pre-harvest) or during storage (post-harvest) and poses a severe threat to human and animal health, as well as being a major barrier to international trade.1
+         * Pre-Harvest Contamination: Infection by A. flavus in the field is strongly associated with late-season drought and heat stress. When the plant is stressed and the soil is dry and warm, the pods are more susceptible to fungal invasion, often through damage caused by soil insects like termites.10
+         * Post-Harvest Contamination: The risk of aflatoxin production increases dramatically if the pods are not dried quickly and properly after harvest. High moisture content (>10%) combined with warm temperatures creates ideal conditions for the growth of Aspergillus fungi on the stored pods.165 Mechanical damage to pods during harvesting and handling also provides entry points for the fungus.
+Management of Aflatoxin: An integrated management approach is required to control aflatoxin contamination effectively.
+         * Pre-Harvest Management:
+         * Resistant Varieties: Planting varieties that have shown some level of resistance to A. flavus infection or aflatoxin production.1
+         * Good Agronomic Practices: Avoiding late-season drought stress through supplemental irrigation is one of the most effective ways to reduce pre-harvest contamination.75 Managing soil pests like termites and controlling foliar diseases to maintain plant health also reduces susceptibility.
+         * Biological Control: Application of atoxigenic (non-toxin-producing) strains of A. flavus to the soil can competitively exclude the toxigenic strains, reducing the overall risk of contamination.
+         * Harvest and Post-Harvest Management:
+         * Timely Harvesting: Harvest the crop at optimal maturity to ensure pods are healthy and shells are intact.
+         * Avoid Mechanical Damage: Handle the pods carefully during harvesting, threshing, and transport to minimize shell damage.
+         * Rapid and Proper Drying: Dry the pods immediately after harvest to a safe moisture level of 7-8%.165
+         * Sorting: Manually or mechanically sort the harvested pods to remove any damaged, discolored, or visibly moldy pods.
+         * Proper Storage: Store the dried pods in clean, dry, and cool conditions with good ventilation to prevent moisture reabsorption and fungal growth.166
+
+
+Section 8: Economic Landscape and Value Addition
+
+
+
+
+8.1. The Economics of Cultivation: Cost Analysis and Profitability
+
+
+The economic viability of groundnut cultivation is a critical factor for farmers and is influenced by a range of variables including production systems (rainfed vs. irrigated), farm size, input costs, and market prices.
+         * Cost of Cultivation: The cost of cultivating groundnut is substantial, with significant variations based on location and management intensity. In India, for example, studies have shown the total cost of cultivation (Cost C2, which includes all paid-out costs plus imputed values for family labor, owned land, and fixed capital) to range from approximately ₹50,000 to over ₹1,13,000 per hectare.21 Key cost components typically include:
+         * Labor: Groundnut cultivation is labor-intensive, particularly for operations like sowing, weeding, and harvesting. Human labor can account for a major share of the operational costs, sometimes as high as 45-60%.21
+         * Seed: Seed is a significant input cost, often representing 15-20% of the total cost.174
+         * Fertilizers and Manures: These inputs constitute another major expense, especially in systems aiming for high productivity.174
+         * Machine Labor and Irrigation: In mechanized and irrigated systems, the costs associated with tractor operations and water are substantial components.173
+         * Profitability and Returns: Net returns from groundnut cultivation are highly variable. Irrigated systems generally yield higher gross and net returns compared to rainfed systems due to higher and more stable productivity.173 For instance, a study in India found that irrigated farmers realized 22% higher net returns per hectare than rainfed farmers.174 The Benefit-Cost Ratio (BCR), which measures the return per rupee invested, typically ranges from 1.3 to 1.5, indicating modest profitability.174 However, in some regions and years, particularly under adverse weather or market conditions, farmers can incur net losses, highlighting the financial risks associated with the crop.173
+Table 6: Comparative Cost of Cultivation and Returns for Groundnut in India (Per Hectare)
+
+
+Particulars
+	Rainfed System
+	Irrigated System
+	Andhra Pradesh (Average)
+	Chhattisgarh (Average)
+	Total Cost of Cultivation (₹)
+	51,448
+	55,207
+	55,142
+	50,374
+	Yield (Quintals/ha)
+	20.45
+	22.98
+	~12.85 (State Avg.)
+	15.94
+	Gross Returns (₹)
+	104,515
+	117,419
+	69,114
+	75,451
+	Net Returns (₹)
+	27,336
+	35,092
+	13,972 (over A2+FL)
+	28,010
+	Benefit-Cost Ratio (BCR)
+	1.35
+	1.42
+	- (Negative over C2)
+	1.50
+	Note: Data compiled from different studies and years, representing illustrative rather than directly comparable figures. Costs are based on different cost concepts (e.g., Cost A1+FL vs. Cost C2). 174
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+8.2. The Groundnut Value Chain: From Farm to Consumer
+
+
+The groundnut value chain encompasses all the actors and activities involved in bringing the product from the farm to the final consumer. Understanding this chain is crucial for identifying constraints, opportunities, and points for intervention to improve efficiency and equity. A typical value chain analysis framework involves mapping the actors, identifying constraints and opportunities, and analyzing market values and margins.177
+The key nodes and actors in the groundnut value chain are:
+         1. Input Supply: This node includes suppliers of seeds, fertilizers, agrochemicals, and equipment. A major weakness at this stage, particularly in developing countries, is the low adoption of certified seeds of improved varieties, with many farmers relying on saved seeds of inconsistent quality.177
+         2. Production: This involves farmers cultivating and harvesting the crop. Constraints at this level include low productivity due to poor agronomic practices, lack of access to credit and extension services, and vulnerability to weather and pests.178
+         3. Aggregation and Trading: After harvest, the produce is sold to various intermediaries, including village merchants, commission agents, and traders in regulated markets. Farmers often face challenges of low bargaining power and price volatility at this stage.173
+         4. Processing: This is a critical node where value is added. Processors range from small-scale local operators (e.g., for oil extraction or roasting) to large industrial units that produce peanut butter, refined oil, and confectioneries.180
+         5. Wholesale and Retail: Processed and raw products are distributed through wholesalers and retailers to reach the final consumers.
+         6. Export: A portion of the produce, particularly high-quality kernels, enters the international market, involving exporters and importers.181
+Key challenges that permeate the value chain include uncertainty (regarding yield and quality), cash constraints for farmers and small processors, and a lack of trust among actors, which can hinder the establishment of efficient and equitable supply chains for high-quality groundnuts.179
+
+
+8.3. Value-Added Products and By-Product Utilization
+
+
+Value addition is key to maximizing the economic potential of groundnut. The crop's versatility allows for a wide array of products derived from both the kernel and its by-products.
+         * Products from the Kernel:
+         * Peanut Oil: The primary value-added product globally. It is used as a high-quality cooking oil and can be marketed in various forms, including refined, cold-pressed, and roasted aromatic oil.13
+         * Peanut Butter: A major product in Western markets, made from ground, dry-roasted peanuts. It is a staple food item and a significant export commodity for countries like the USA.13
+         * Snacks and Confectionery: This includes roasted, boiled, or salted peanuts, as well as their use as a key ingredient in candy bars, cookies, and traditional sweets like chikki in India.13
+         * Peanut Flour and Protein: Defatted peanut flour is a gluten-free ingredient used in baking. Further processing yields peanut protein concentrates and isolates (up to 70% protein), which are used as functional food ingredients and protein extenders.13
+         * Peanut Milk: A plant-based milk alternative can also be produced from groundnuts.184
+         * Utilization of By-Products:
+         * Peanut Meal/Cake: The residue left after oil extraction is a protein-rich (45-60%) by-product, primarily used as a valuable feed for livestock and poultry.182
+         * Peanut Shells (Hulls): Though often treated as waste, shells have numerous value-added applications. They can be used as fuel, as a raw material for producing particleboard and activated carbon, as a soil amendment (biochar), or as a roughage component in animal feed.182
+         * Peanut Skins: The thin, papery skins removed during processing are a rich source of phenolic compounds and antioxidants, including proanthocyanidins. Extracts from peanut skins have potential applications as functional food ingredients, natural antioxidants, and antimicrobial agents.186
+         * Haulms (Vines): The dried leaves and stems of the groundnut plant are a nutritious fodder for livestock.25
+
+
+8.4. Global Trade Dynamics and Policy Interventions (e.g., MSP)
+
+
+Global trade in groundnuts and their products was valued at over USD 4.5 billion in 2023.181 The trade is heavily influenced by the production and policies of major players.
+         * Major Exporters and Importers: In 2023, the leading exporters of groundnuts were Argentina (USD 836M), India (USD 807M), and the United States (USD 658M). The top importers were China (USD 716M), the Netherlands (USD 544M), and Indonesia (USD 375M).181 The trade has a strong South-South dimension, with policies in large producing countries like India and China significantly impacting world prices and the competitiveness of smaller exporting nations, particularly in Africa.187
+         * Minimum Support Price (MSP) in India: The MSP is a form of market intervention by the Government of India to provide a price safety net for farmers. Groundnut is one of the 22 mandated crops for which MSP is announced each year.188 The MSP is fixed based on the recommendations of the Commission for Agricultural Costs and Prices (CACP) and is set at a level of at least 1.5 times the All-India weighted average cost of production (A2+FL cost).190 For the 2024-25 marketing season, the MSP for groundnut was increased to ₹6,783 per quintal.192
+         * Impact of MSP: The MSP aims to ensure remunerative prices, protect farmers from sharp price falls during bumper harvests, and encourage investment in production.188 When market prices fall below the MSP, government agencies like NAFED undertake procurement operations under the Price Support Scheme (PSS).188 This procurement provides an assured market for farmers and helps stabilize their income. However, the effectiveness of MSP is debated. While it can provide stability, awareness and access to procurement centers are often limited, with larger farmers tending to benefit more.190 Furthermore, there is an ongoing demand from farmer groups to calculate MSP based on the more comprehensive C2 cost of production, which includes imputed rent and interest on owned capital.190
+
+
+Section 9: The Future of Groundnut: Challenges and Innovations
+
+
+
+
+9.1. Addressing the Yield Gap: Traditional vs. Improved Practices
+
+
+A significant challenge in global groundnut production is the persistent and wide gap between the potential yield achievable under optimal conditions and the actual yields realized by farmers, particularly smallholders in rainfed systems.178 While research stations and high-input commercial farms can achieve yields exceeding 4-5 t/ha, the average productivity in many developing countries remains around 1-1.5 t/ha.61 This yield gap can be attributed to a combination of biophysical, socio-economic, and technology transfer constraints.178
+Bridging this gap requires a transition from traditional, low-input practices to the adoption of an integrated package of improved technologies. Front-line demonstrations comparing farmers' practices with recommended improved practices consistently highlight the potential for substantial yield gains. For instance, a demonstration in Odisha, India, showed that shifting from a traditional variety ('Kadri-6') with irrational fertilizer use to an improved high-yielding variety ('Dharani') combined with recommended practices (seed treatment, balanced fertilization including sulphur, and proper spacing) increased pod yield by over 17%.178 The key components of bridging the yield gap include:
+         * Adoption of High-Yielding Varieties (HYVs): Replacing low-potential local landraces with improved varieties that are adapted to local conditions and possess traits like higher yield potential and disease resistance is the first step.61
+         * Improved Agronomic Practices: Partial adoption of recommended technologies is a major reason for low yields. A holistic approach is needed, encompassing timely sowing, optimal plant population, integrated nutrient management (INM), and effective water and pest management.61
+         * Technology Transfer and Extension: The gap between available knowledge and on-farm practice remains wide. Strengthening agricultural extension services to effectively disseminate information and build farmer capacity is crucial for the widespread adoption of improved practices.23
+
+
+9.2. Environmental Considerations in Groundnut Cultivation
+
+
+While groundnut has inherent sustainability benefits, its cultivation is not without environmental impacts, which are becoming more acute under the pressures of climate change and the drive for agricultural intensification.
+         * Water Footprint and Scarcity: Groundnut production has a significant water footprint, comprising green water (rainwater), blue water (irrigation), and grey water (water needed to assimilate pollution). In arid and semi-arid regions, which account for about 75% of global production, drought is a major concern, and reliance on irrigation is increasing.27 Over-extraction of groundwater for irrigation can deplete aquifers and strain local water resources.26 Water footprint assessments are crucial for identifying regions where water use is unsustainable and for promoting more efficient irrigation technologies.27
+         * Soil Health and Degradation: While groundnut's nitrogen-fixing ability improves soil fertility, continuous monocropping without adequate nutrient replenishment can deplete other essential nutrients, leading to soil degradation.197 The injudicious use of chemical fertilizers can also harm soil health and pollute groundwater.131 Practices like crop rotation and INM are vital for maintaining long-term soil quality.197
+         * Pesticide Use and Ecotoxicity: The use of chemical pesticides to control pests and diseases can have negative environmental consequences, including water contamination and harm to non-target organisms. The potential for freshwater ecotoxicity is a significant impact category associated with groundnut cultivation, particularly from chemicals with high toxicity, even if applied at low rates.27 Promoting IPM strategies is essential to minimize reliance on synthetic pesticides.26
+         * Climate Change Impacts: Rising temperatures, erratic rainfall, and increased frequency of extreme weather events pose a significant threat to groundnut production.76 Studies project that rising temperatures could reduce groundnut yields in regions like Gujarat, India, by 20-34% by the end of the century due to shortened crop duration and heat stress during reproductive stages.199
+
+
+9.3. Advances in Biotechnology and Genetic Improvement
+
+
+Biotechnology and modern genetics offer powerful tools to accelerate the development of improved groundnut varieties that can meet future challenges.
+         * Marker-Assisted Selection (MAS): This technique uses DNA markers linked to desirable traits to select superior plants in a breeding program more quickly and efficiently than traditional phenotypic selection. MAS has been instrumental in developing India's first high oleic acid groundnut varieties, 'Girnar 4' and 'Girnar 5'.39
+         * Genomic Selection (GS): GS uses genome-wide marker data to predict the genetic merit of individuals, allowing breeders to select for complex, polygenic traits like yield and drought tolerance with greater accuracy and speed.200
+         * Transgenic Approaches and Gene Editing: Genetic engineering offers pathways to introduce novel traits. Strategies being explored include the overexpression of antifungal plant defensins and host-induced gene silencing (HIGS) to confer strong resistance to Aspergillus flavus and aflatoxin production.201 Newer gene-editing technologies like CRISPR-Cas9 allow for precise modifications to the groundnut genome, offering the potential to "knock out" susceptibility genes to confer durable disease resistance or to modify traits like oil composition.200
+         * Mutation Breeding: Induced mutagenesis using radiation or chemical mutagens has been successfully used to create genetic variability and develop numerous improved groundnut varieties with enhanced agronomic and quality traits.204
+
+
+9.4. The Role of Precision Agriculture in Modern Groundnut Farming
+
+
+Precision agriculture involves the use of information technology to manage spatial and temporal variability within a field, optimizing the use of inputs and maximizing productivity and sustainability.
+         * Key Technologies: The core technologies of precision agriculture include:
+         * Global Positioning System (GPS): Used for tractor guidance systems to ensure precise planting, spraying, and harvesting, reducing overlaps and input waste. GPS is also used for yield mapping and soil sampling.205
+         * Remote Sensing: Satellite and drone imagery provide real-time data on crop health (e.g., using NDVI), soil moisture, and pest infestations, allowing for early detection of problems and targeted interventions.206
+         * Geographic Information Systems (GIS): Used to create layered maps of a field, showing variability in soil type, nutrient levels, and yield, which informs management decisions.209
+         * Variable Rate Technology (VRT): This technology allows for the precise, variable application of inputs like fertilizers, pesticides, and seeds across a field based on data from soil and yield maps, ensuring that each part of the field receives exactly what it needs.205
+         * Benefits for Groundnut Farming: The adoption of precision agriculture technologies in groundnut farming can lead to significant benefits, including optimized irrigation schedules, reduced fertilizer and pesticide use, improved soil health, and increased yields (by up to 20% in some cases).206 These technologies empower farmers to make data-driven decisions, enhancing both economic profitability and environmental sustainability.210
+
+
+9.5. Policy Recommendations for Sustainable Production and Trade
+
+
+To secure the future of the groundnut sector and maximize its contribution to global well-being, a concerted effort from policymakers is required. Based on the comprehensive analysis in this report, the following policy recommendations are proposed:
+         1. Invest in Research and Development for Climate Resilience: Governments and international bodies should increase funding for public breeding programs focused on developing climate-resilient groundnut varieties with tolerance to drought, heat, and major diseases. Emphasis should be placed on integrating modern biotechnological tools with conventional breeding to accelerate genetic gains.
+         2. Strengthen Seed Systems and Extension Services: Policies should support the development of robust formal and informal seed systems to ensure that smallholder farmers have access to affordable, high-quality seeds of improved varieties. This must be coupled with revitalized agricultural extension services that can effectively disseminate knowledge on integrated crop management practices.
+         3. Promote Integrated Nutrient and Water Management: Incentivize the adoption of INM and efficient irrigation technologies (drip, sprinkler) through subsidies, credit facilities, and awareness campaigns. Policies should promote soil health through the encouragement of crop rotation and the use of organic manures and biofertilizers.
+         4. Implement a National Aflatoxin Management Strategy: Given the severe health and trade implications of aflatoxin, a multi-pronged national strategy is essential. This should include promoting pre-harvest best practices (e.g., late-season irrigation), investing in post-harvest infrastructure (e.g., mechanical dryers, proper storage facilities), establishing robust monitoring and surveillance systems, and raising awareness among all stakeholders in the value chain.
+         5. Enhance Market Infrastructure and Value Chain Efficiency: Invest in rural infrastructure, including roads and storage facilities, to reduce post-harvest losses and improve market access. Support the development of farmer producer organizations (FPOs) to enhance farmers' collective bargaining power and facilitate their integration into formal value chains.
+         6. Review and Refine Price Support Policies: While instruments like the MSP provide a crucial safety net, their implementation should be reviewed to ensure broader reach and effectiveness. Exploring complementary mechanisms like price deficiency payment schemes could offer income support without distorting market prices. Trade policies should be carefully calibrated to balance the interests of domestic producers and consumers while fostering a competitive position in global markets.
+         7. Foster Public-Private Partnerships: Encourage collaboration between public research institutions, private sector companies, and civil society organizations to drive innovation in breeding, processing, and the development of value-added products, ensuring that technological advancements translate into tangible benefits for farmers and consumers.
+
+
+References
+
+
+(A comprehensive list of all cited sources would be included here, formatted according to a standard academic style.)
+
+
+Appendices
+
+
+(Appendices could include detailed statistical tables, lists of notified varieties by country, and protocols for specific agronomic practices.)
+Works cited
+         1. Groundnut Overview - Crops - ICRISAT, accessed on August 18, 2025, https://www.icrisat.org/crops/groundnut/overview
+         2. Global Peanut Market Expected to Reach $109.29 Billion by 2032 Amid Growing Demand and Innovation - CropGPT, accessed on August 18, 2025, https://cropgpt.ai/global-peanut-market-expected-to-reach-109-29-billion-by-2032-amid-growing-demand-and-innovation
+         3. GROUNDNUT PRODUCTION A CONCISE GUIDE, accessed on August 18, 2025, https://www.arc.agric.za/arc-gci/Fact%20Sheets%20Library/Groundnut%20Production.pdf
+         4. Chapter 11: Soil Fertility and Plant Nutrition, accessed on August 18, 2025, https://apresinc.com/images/2015/12/APS-Chapter-11.pdf
+         5. Peanut Profile - Agricultural Marketing Resource Center, accessed on August 18, 2025, https://www.agmrc.org/commodities-products/nuts/peanut-profile
+         6. George Washington Carver|The Peanut - National Agricultural Library - USDA, accessed on August 18, 2025, https://www.nal.usda.gov/exhibits/ipd/carver/items/show/77
+         7. The Story of Peanuts - The Peanut Company of Australia, accessed on August 18, 2025, https://pca.com.au/the-story-of-peanuts/
+         8. The Role of Peanuts in Global Food Security - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/303414929_The_Role_of_Peanuts_in_Global_Food_Security
+         9. 1.14: Groundnut Breeding - Biology LibreTexts, accessed on August 18, 2025, https://bio.libretexts.org/Bookshelves/Agriculture_and_Horticulture/Crop_Improvement_(Suza_and_Lamkey)/01%3A_Chapters/1.14%3A_Groundnut_Breeding
+         10. Understanding the impacts of drought on peanuts ... - Frontiers, accessed on August 18, 2025, https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2024.1492434/full
+         11. Groundnut - CORE, accessed on August 18, 2025, https://core.ac.uk/download/pdf/219473994.pdf
+         12. Peanuts as functional food: a review - PMC, accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC4711439/
+         13. Peanut - Wikipedia, accessed on August 18, 2025, https://en.wikipedia.org/wiki/Peanut
+         14. 2 Classification of groundnut (Arachis hypogaea) | Download Table - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/figure/Classification-of-groundnut-Arachis-hypogaea_tbl1_290778295
+         15. Groundnut - Wild Peanut Lab, accessed on August 18, 2025, https://wildpeanutlab.uga.edu/files/2018/08/2014-Rami-Chapter-BioMedCentral.pdf
+         16. Area, production and productivity of groundnut in various countries during 2008 (FAO, 2010). - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/figure/Area-production-and-productivity-of-groundnut-in-various-countries-during-2008-FAO_tbl1_284028134
+         17. Top 10 groundnut producing countries of the world. - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/figure/Top-10-groundnut-producing-countries-of-the-world_fig1_336983498
+         18. Where Are Peanuts Grown? - WorldAtlas, accessed on August 18, 2025, https://www.worldatlas.com/articles/top-peanut-groundnut-producing-countries.html
+         19. Global Peanut Market: Regional Production and Supply Outlook - Cardassilaris, accessed on August 18, 2025, https://www.cardassilaris.com/news/global-peanut-market-trends-analyzing-regional-dynamics-and-production-forecasts
+         20. Peanut Explorer - International Production Assessment Division (IPAD), accessed on August 18, 2025, https://ipad.fas.usda.gov/cropexplorer/cropview/commodityView.aspx?cropid=2221000
+         21. Crop Outlook Reports of Andhra Pradesh - Groundnut– June to May, 2023-24 - ANGRAU, accessed on August 18, 2025, https://angrau.ac.in/downloads/AMIC/OutlookReports/2023_24/groundnut%20outlook-June-july-2023-24.pdf
+         22. Potentials of the Groundnut Sector towards Achieving Food Security in Senegal, accessed on August 18, 2025, https://www.scirp.org/journal/paperinformation?paperid=70352
+         23. An Economic Analysis of Smallholder Groundnut Production in Selected African Countries - Digital Commons @ UConn - University of Connecticut, accessed on August 18, 2025, https://digitalcommons.lib.uconn.edu/cgi/viewcontent.cgi?article=8731&context=dissertations
+         24. A Groundnut Value Chain and Market Systems Analysis in Uganda: An in-depth literature review - Peanut Innovation Lab, accessed on August 18, 2025, https://ftfpeanutlab.caes.uga.edu/content/dam/caes-subsite/ftf-peanut-lab/documents/peanut-lab/Uganda%20groundnut%20value%20chain.pdf
+         25. Better groundnut - N2Africa, accessed on August 18, 2025, https://www.n2africa.org/sites/default/files/293%20N2Africa%20Zimbabwe%20groundnut%20booklet_0.pdf
+         26. The Environmental Impact of Peanut Butter Production: Sustainable Solutions, accessed on August 18, 2025, https://www.nuflowerfoods.com/blogs/the-environmental-impact-of-peanut-butter-production-sustainable-solutions/
+         27. (PDF) Potential Environmental Impacts of Peanut Using Water Footprint Assessment: A Case Study in Georgia - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/359849694_Potential_Environmental_Impacts_of_Peanut_Using_Water_Footprint_Assessment_A_Case_Study_in_Georgia
+         28. www.digitalhistory.uh.edu, accessed on August 18, 2025, https://www.digitalhistory.uh.edu/active_learning/explorations/columbus/columbian_answers_vegetables.cfm#:~:text=%22The%20archaeological%20records%20supports%20its,Chaco%20region%20of%20South%20America.
+         29. Digital History, accessed on August 18, 2025, https://www.digitalhistory.uh.edu/active_learning/explorations/columbus/columbian_answers_vegetables.cfm
+         30. An overview for cultivated peanut species - Peanut Genome Resource, accessed on August 18, 2025, http://peanutgr.fafu.edu.cn/Species.php
+         31. Nuts About Peanuts - Crop Trust, accessed on August 18, 2025, https://www.croptrust.org/news-events/news/nuts-about-peanuts/
+         32. Untitled - American Peanut Research and Education Society, accessed on August 18, 2025, https://apresinc.com/images/2015/12/PST-Chapter-1.pdf
+         33. Arachis hypogaea (peanut) - PubChem, accessed on August 18, 2025, https://pubchem.ncbi.nlm.nih.gov/taxonomy/3818
+         34. Chapter 1: The Peanut-Reproductive Development to Plant Maturity, accessed on August 18, 2025, https://apresinc.com/images/2015/12/APS-Chapter-1.pdf
+         35. The taxonomic arrangement of subspecies and botanical varieties of... - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/figure/The-taxonomic-arrangement-of-subspecies-and-botanical-varieties-of-Arachis-hypogaea-and_fig5_231885966
+         36. Species - Peanut Genome Resource, accessed on August 18, 2025, https://pgr.itps.ncku.edu.tw/species.php
+         37. The Recent Botanical Taxonomic System of Peanut Cultivars, accessed on August 18, 2025, https://www.jircas.go.jp/sites/default/files/publication/jarq/07-4-228-232_0.pdf
+         38. PEANUTS - Grains Research and Development Corporation (GRDC), accessed on August 18, 2025, https://grdc.com.au/__data/assets/pdf_file/0028/370549/GrowNote-Peanuts-North-04-Physiology.pdf
+         39. Chapter 14: Groundnut Breeding – Crop Improvement - Iowa State University Digital Press, accessed on August 18, 2025, https://iastate.pressbooks.pub/cropimprovement/chapter/groundnut-breeding/
+         40. Chapter 3: Structure and Genetic Resources of Peanuts, accessed on August 18, 2025, https://apresinc.com/images/2015/12/PCU-Chapter-3.pdf
+         41. Groundnut - Food and Agriculture Organization of the United Nations, accessed on August 18, 2025, https://www.fao.org/land-water/databases-and-software/crop-information/groundnut/en/
+         42. Developmental Changes in Peanut Root Structure during Root Growth and Root-structure Modification by Nodulation - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/5596249_Developmental_Changes_in_Peanut_Root_Structure_during_Root_Growth_and_Root-structure_Modification_by_Nodulation
+         43. Root nodule - Wikipedia, accessed on August 18, 2025, https://en.wikipedia.org/wiki/Root_nodule
+         44. Developmental Changes in Peanut Root Structure during Root ..., accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC2710188/
+         45. Nodulation of groundnut by Bradyrhizobium: a simple infection process by crack entry | FEMS Microbiology Reviews | Oxford Academic, accessed on August 18, 2025, https://academic.oup.com/femsre/article/21/1/5/550678
+         46. Arachis hypogaea (peanut) - Go Botany - Native Plant Trust, accessed on August 18, 2025, https://gobotany.nativeplanttrust.org/species/arachis/hypogaea/
+         47. The Reproductive Characters of Four Varieties of Groundnuts (Arachis hypogaea L.) - CORE, accessed on August 18, 2025, https://core.ac.uk/download/pdf/42989611.pdf
+         48. Peg development and formation of aerial pod in peanut. (A) flower; (B)... - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/figure/Peg-development-and-formation-of-aerial-pod-in-peanut-A-flower-B-emasculated-flower_fig1_336058238
+         49. Peg Biology: Deciphering the Molecular Regulations Involved During Peanut Peg Development - Frontiers, accessed on August 18, 2025, https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.01289/full
+         50. Analysis of the Transcriptional Dynamics of Regulatory Genes ..., accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC9178256/
+         51. Flowering and Fruiting of Peanut Plants, accessed on August 18, 2025, https://www.jircas.go.jp/sites/default/files/publication/jarq/13-4-226-229_0.pdf
+         52. Initiation and Morphogenesis of Groundnut (Arachis hypogaea L.) Pods in Solution Culture, accessed on August 18, 2025, https://academic.oup.com/aob/article-pdf/81/3/391/7983102/810391.pdf
+         53. Characterization of peanut phytochromes and their possible regulating roles in early peanut pod development - PubMed Central, accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC5969742/
+         54. Arachis hypogaea - Plant Toolbox, accessed on August 18, 2025, https://plants.ces.ncsu.edu/plants/arachis-hypogaea/
+         55. Groundnuts - Smart Farming | Nutrient Testing – AgroCares, accessed on August 18, 2025, https://agrocares.com/groundnuts/
+         56. apresinc.com, accessed on August 18, 2025, https://apresinc.com/images/2015/12/APS-Chapter-8.pdf
+         57. Molecular Basis of Root Nodule Symbiosis between Bradyrhizobium ..., accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC7076665/
+         58. Studies on Nitrogen Fixation by Groundnut at ICRISAT - CORE, accessed on August 18, 2025, https://core.ac.uk/download/pdf/211011771.pdf
+         59. Rhizobium-Legume Symbiosis and Nitrogen Fixation under Severe Conditions and in an Arid Climate - PubMed Central, accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC98982/
+         60. core.ac.uk, accessed on August 18, 2025, https://core.ac.uk/download/pdf/211012402.pdf
+         61. Obtaining Sustainable Higher Groundnut Yields: Principles and Practices of Cultivation - OAR@ICRISAT, accessed on August 18, 2025, https://oar.icrisat.org/3217/1/Obtaining_Sustainable_Higher_Groundnut_Yields.pdf
+         62. Water Requirements Peanut FAO | PDF - Scribd, accessed on August 18, 2025, https://www.scribd.com/document/301487578/Water-requirements-peanut-FAO
+         63. GROUNDNUT: Post-harvest Operations - Food and Agriculture Organization of the United Nations, accessed on August 18, 2025, https://www.fao.org/fileadmin/user_upload/inpho/docs/Post_Harvest_Compendium_-_Groundnut.pdf
+         64. Peanut Irrigation Requirements — Considerations & Solutions, accessed on August 18, 2025, https://agriculture.hunterirrigation.com/peanut-irrigation-requirements-considerations-solutions
+         65. Groundnut at a Glance - Peanut Innovation Lab, accessed on August 18, 2025, https://ftfpeanutlab.caes.uga.edu/content/dam/caes-subsite/ftf-peanut-lab/documents/pmil/management-entity/Publication_Book_Nigam_2015_Groundnut-at-a-Glance_BW3.pdf
+         66. Effect and interaction of temperature and photoperiod on growth and partitioning in three groundnut (Arachis hypogaea L.) genoty - SciSpace, accessed on August 18, 2025, https://scispace.com/pdf/effect-and-interaction-of-temperature-and-photoperiod-on-2zn6uclw7z.pdf
+         67. (PDF) Photoperiod Sensitivity of Rhizoma Peanut Germplasm - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/43273183_Photoperiod_Sensitivity_of_Rhizoma_Peanut_Germplasm
+         68. Local Populations of Arabidopsis thaliana Show Clear Relationship between Photoperiodic Sensitivity of Flowering Time and Altitude - Frontiers, accessed on August 18, 2025, https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2017.01046/full
+         69. Cultural Management Practices of Groundnut - OAR@ICRISAT, accessed on August 18, 2025, https://oar.icrisat.org/8718/1/Cultural%20Management%20Practices.pdf
+         70. Effects of Different Soil Texture on Peanut Growth and Development - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/281229210_Effects_of_Different_Soil_Texture_on_Peanut_Growth_and_Development
+         71. SOIL PH FOR GROWING VEGETABLES - Westland Seed, Inc., accessed on August 18, 2025, https://westlandseed.com/soil-ph-growing-vegetables/
+         72. Start With Soil pH - Peanut Grower, accessed on August 18, 2025, https://peanutgrower.com/feature/start-with-soil-ph/
+         73. (PDF) Tolerance of peanut genotypes to acidic soil condition - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/276368191_Tolerance_of_peanut_genotypes_to_acidic_soil_condition
+         74. Guide to Groundnut Production in Malawi - Peanut Innovation Lab, accessed on August 18, 2025, https://ftfpeanutlab.caes.uga.edu/content/dam/caes-subsite/ftf-peanut-lab/documents/peanut-lab/Malawi%20Groundnut%20Production%20Guide%20AUG2021.pdf
+         75. Physiological responses of groundnut (Arachis hypogea L.) to drought stress and its amelioration: a critical review - USDA ARS, accessed on August 18, 2025, https://www.ars.usda.gov/ARSUserFiles/80420520/FullTextPublicationspdf/publications/reddy/groundnut.pdf
+         76. Understanding the impacts of drought on peanuts (Arachis hypogaea L.): exploring physio-genetic mechanisms to develop drought-resilient peanut cultivars, accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC11750809/
+         77. Irrigation Requirement and Methods for Groundnut Cultivation - Wikifarmer, accessed on August 18, 2025, https://wikifarmer.com/library/en/article/irrigation-requirement-and-methods-for-groundnut-cultivation
+         78. Abiotic Stress Responses in Groundnut (Arachis hypogaea L ..., accessed on August 18, 2025, https://www.researchgate.net/publication/368236039_Abiotic_Stress_Responses_in_Groundnut_Arachis_hypogaea_L_Mechanisms_and_Adaptations
+         79. Groundnut (Arachis hypogaea L.) presents many similar responses to drought and salinity, two water stress factors - International Network for Natural Sciences, accessed on August 18, 2025, https://innspub.net/groundnut-arachis-hypogaea-l-presents-many-similar-responses-to-drought-and-salinity-two-water-stress-factors/
+         80. Abiotic Stresses And Its Management In Agriculture Assistant Professor, Department of Crop Physiology, TNAU, Coimbatore Introduc, accessed on August 18, 2025, https://agritech.tnau.ac.in/pdf/11.pdf
+         81. Lecture: - 18 BREEDING FOR ABIOTIC STRESS - CUTM Courseware, accessed on August 18, 2025, https://courseware.cutm.ac.in/wp-content/uploads/2020/05/18.-Breeding-for-important-abiotic-biotic-stresses.docx.pdf
+         82. Heat tolerance in groundnut - OAR@ICRISAT, accessed on August 18, 2025, https://oar.icrisat.org/1363/1/FieldCropsRes80_1_63-77_2003.pdf
+         83. How to increase my groundnut yields through best practices in ..., accessed on August 18, 2025, https://plantix.net/en/blog/increasing-yields-in-groundnut-cultivation/
+         84. Mechanization Tools in Groundnut cultivation - Regional Agricultural Research Station:, accessed on August 18, 2025, https://www.rarstpt.org/files/rars/Farm%20Mechanisation/Farm%20mechanization%20,%20Dept.of%20Agril.Engineering,%20RARS,%20Tirupati.pdf
+         85. Does the Soil Tillage Affect the Quality of the Peanut Picker? - MDPI, accessed on August 18, 2025, https://www.mdpi.com/2073-4395/13/4/1024
+         86. Strategies & Solutions | FBN, accessed on August 18, 2025, https://www.fbn.com/community/blog/no-till-reduced-conventional-tillage-cheat-sheet
+         87. The impact of tillage practices on daytime CO2 fluxes, evapotranspiration (ET), and water-use efficiency in peanut - Frontiers, accessed on August 18, 2025, https://www.frontiersin.org/journals/agronomy/articles/10.3389/fagro.2023.1228407/full
+         88. Minimum Tillage | NC State Extension - Soil Health and Management, accessed on August 18, 2025, https://soilmanagement.ces.ncsu.edu/tillage-management/minimum-tillage/
+         89. Management and Cultural Practices for Peanuts - North Florida Research and Education Center, accessed on August 18, 2025, https://nfrec.ifas.ufl.edu/media/nfrecifasufledu/docs/pdf/Peanut-Production-Guide-2020.pdf
+         90. Comparison of No-tillage, Minimum, and Full Tillage Cultural Practices on Peanuts - Allen Press, accessed on August 18, 2025, https://meridian.allenpress.com/peanut-science/article-pdf/14/2/101/1856301/i0095-3679-14-2-13.pdf
+         91. Effect of Planting Methods on Growth and Yield of Groundnut Cultivars - CABI Digital Library, accessed on August 18, 2025, https://www.cabidigitallibrary.org/doi/pdf/10.5555/20220486432
+         92. Sowing and Seed Rate in Groundnut Cultivation | PDF - Scribd, accessed on August 18, 2025, https://www.scribd.com/document/858586250/Sowing-and-Seed-Rate-in-Groundnut-Cultivation
+         93. (PDF) Impact of Ridge and Furrow Method of Planting on Groundnut ..., accessed on August 18, 2025, https://www.researchgate.net/publication/360079807_Impact_of_Ridge_and_Furrow_Method_of_Planting_on_Groundnut_Yield_Attributes_in_Chittoor_District_of_Andhra_Pradesh_India
+         94. Ridges vs. Beds - Never Ending Food, accessed on August 18, 2025, https://neverendingfood.org/ridges-vs-beds/
+         95. Effect of Four Different Tillage Methods on Growth and Yield of Groundnut (Arachis hypogea L) in Coastal Plain Sand, accessed on August 18, 2025, https://www.aksuja.com.ng/viewpdf/articles/publications/d/4.pdf
+         96. Groundnut - APEDA, accessed on August 18, 2025, https://apeda.gov.in/groundnut
+         97. world groundnut production statistics - Maritime Capital Holding, accessed on August 18, 2025, http://maritimecapitalholding.com/taro-yamada-kiels/world-groundnut-production-statistics-bd739d
+         98. [Solved] Consider the following crops: 1. Cotton 2. Groundnut 3. M - Testbook, accessed on August 18, 2025, https://testbook.com/question-answer/consider-the-following-crops1-cotton2-groun--5f8e0bf80e7c6839024190d2
+         99. Acharya NG Ranga Agricultural University Crop Outlook Reports of Andhra Pradesh GROUNDNUT– January to December 2021, accessed on August 18, 2025, https://angrau.ac.in/downloads/AMIC/OutlookReports/2021/6-GROUNDNUT_January%20to%20December%202021.pdf
+         100. Crop Seasons in India | Kharif, Rabi & Zaid Crops - kp ias academy, accessed on August 18, 2025, https://kpiasacademy.com/crop-seasons-india/
+         101. Cropping seasons of India- Kharif & Rabi - Arthapedia, accessed on August 18, 2025, http://www.arthapedia.in/index.php/Cropping_seasons_of_India-_Kharif_%26_Rabi
+         102. Kharif and Rabi Crops, Examples, Difference, UPSC Notes - Vajiram & Ravi, accessed on August 18, 2025, https://vajiramandravi.com/upsc-exam/kharif-and-rabi-crops/
+         103. Handbook of groundnut varieties of India released during 2001-2021 - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/profile/Amrit-Singh-2/publication/354052432_Handbook_of_Groundnut_varieties_of_India_released_during_2001-2021/links/61212bc3169a1a01031987ea/Handbook-of-Groundnut-varieties-of-India-released-during-2001-2021.pdf
+         104. Districtwise Promising Technologies for Rainfed Groundnut based Production System in India - ICAR-CRIDA, accessed on August 18, 2025, https://www.icar-crida.res.in/assets/img/Books/2004-05/Groundnut.pdf
+         105. Bambara Groundnut: An Underutilized Leguminous Crop for Global Food Security and Nutrition - PubMed Central, accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC7758284/
+         106. Global strategy for the conservation and use of peanut genetic resources - Crop Trust, accessed on August 18, 2025, https://www.croptrust.org/fileadmin/uploads/croptrust/Documents/Ex_Situ_Crop_Conservation_Strategies/Peanut-Conservation-Strategy-LOWRES_4_04_22.pdf
+         107. Profiling Cultivars Development in Kersting's Groundnut [Macrotyloma geocarpum (Harms) Maréchal and Baudet] for Improved Yield, Higher Nutrient Content, and Adaptation to Current and Future Climates - Frontiers, accessed on August 18, 2025, https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2021.759575/full
+         108. Optimizing Traditional Cropping Systems Under Climate Change: A Case of Maize Landraces and Bambara Groundnut - PMC, accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC7616261/
+         109. ICRISAT and Malawi Government Release Climate-Resilient Groundnut Variety for Commercialization, accessed on August 18, 2025, https://pressroom.icrisat.org/icrisat-and-malawi-government-release-climate-resilient-groundnut-variety-for-commercialization
+         110. Adoption of climate-resilient groundnut varieties increases agricultural production, consumption, and smallholder commercialization in West Africa - PubMed Central, accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC10449883/
+         111. Biofortification and Climate Change | HarvestPlus, accessed on August 18, 2025, https://www.harvestplus.org/wp-content/uploads/2022/01/Climate-Change-and-Biofortification-002.pdf
+         112. ICAR released over 6100 improved varieties of field and ... - PIB, accessed on August 18, 2025, https://www.pib.gov.in/PressReleasePage.aspx?PRID=1845109
+         113. ICAR-Directorate of Groundnut Research develops groundnut variety with high oleic acid, accessed on August 18, 2025, https://icar.org.in/en/node/11912
+         114. Groundnut | ICAR - Indian Council of Agricultural Research Krishi Bhavan, accessed on August 18, 2025, https://icar.org.in/en/crop-science/groundnut
+         115. Groundnut Varieties Available in India | Types of Peanuts in India, accessed on August 18, 2025, https://www.agrocrops.com/en/peanuts-blogs/groundnuts-varieties-available-in-india
+         116. Groundnut - DOD - Directorate of Oilseeds Development, accessed on August 18, 2025, https://oilseeds.dac.gov.in/Groundnut.aspx
+         117. Crop Variety/hybrid Groundnut GG-8 , GG-16 , GJG-18 , GJG-19 , GJG-32*, GJG-HPS-1, GJG-9 , GJG-31, GJG-17, GJG-22 Pearl Millet G - Junagadh Agricultural University, accessed on August 18, 2025, http://www.jau.in/attachments/proceedings/Variety-13-years.pdf
+         118. Varieties Released – Oilseeds Research Station – Tindivanam - Tamil Nadu Agricultural University, accessed on August 18, 2025, https://tnau.ac.in/site/ors-tindivanam/varieties-released/
+         119. Groundnut Farming - TIMEIS, accessed on August 18, 2025, https://www.techno-preneur.net/technology/project-profiles/food/Groundnut.htm
+         120. Groundnut - Agriculture :: Home, accessed on August 18, 2025, https://agritech.tnau.ac.in/agriculture/CropProduction/Oilseeds/oilseeds_groundnut01.html
+         121. GOOD AGRICULTURAL PRACTICES FOR PEANUT GROWING AND HARVESTING, accessed on August 18, 2025, https://www.peanutsusa.com/phocadownload/GMPs/2022/Chapter%201%20Peanut%20Growing%20and%20Harvesting.pdf
+         122. Navsari Agricultural University Kiosk, accessed on August 18, 2025, https://kiosk.nau.in/KIOSK_KRUSHI/content.php?grp=1&pid=865
+         123. Groundnut Crop Punjab | Farming Guide - Apni Kheti, accessed on August 18, 2025, https://www.apnikheti.com/en/pn/agriculture/crops/oilseeds/groundnut
+         124. Plant Populations Peanut Notes No. 21 2021 | NC State Extension, accessed on August 18, 2025, https://peanut.ces.ncsu.edu/2021/03/plant-populations-peanut-notes-no-21-2021/
+         125. Phenological Development and Yield of Three Groundnut Varieties as Influenced by Plant Density in a Forest-savanna Transition Zone - Science Alert, accessed on August 18, 2025, https://scialert.net/fulltext/?doi=ijar.2014.87.98
+         126. THE EFFECT OF PLANT DENSITY ON POD YIELD AND ... - DergiPark, accessed on August 18, 2025, https://dergipark.org.tr/en/download/article-file/1138719
+         127. EFFECTS of ROW and DRILL SPACING on YIELD and MARKET GRADE FACTORS of PEANUTS - Auburn AUrora, accessed on August 18, 2025, https://aurora.auburn.edu/bitstream/handle/11200/1963/1164CIRC.pdf?sequence=1
+         128. Effects of groundnut spacing on yield and weed control in the rainforest agro-ecological zone of Nigeria - Direct Research Journals, accessed on August 18, 2025, https://directresearchpublisher.org/drjafs/files/2017/05/Ansa1.pdf
+         129. Nutrient Management for Unpredictable Legume – “Groundnut” - Chemical Science Review and Letters, accessed on August 18, 2025, https://chesci.com/wp-content/uploads/2022/06/v11i42_19_CS205303448.pdf
+         130. Fertilizer requirement for Groundnut Cultivation - Wikifarmer, accessed on August 18, 2025, https://wikifarmer.com/library/en/article/fertilizer-requirement-for-groundnut-cultivation
+         131. Effect of chemical fertilizers and integrated nutrient management on ..., accessed on August 18, 2025, https://www.thepharmajournal.com/archives/2023/vol12issue2/PartAF/12-2-324-209.pdf
+         132. System-Based Integrated Nutrient Management Improves Productivity, Profitability, Energy Use Efficiency and Soil Quality in Peanut-Wheat Cropping Sequence in Light Black Soils - MDPI, accessed on August 18, 2025, https://www.mdpi.com/2071-1050/15/2/1361
+         133. (PDF) Effect of integrated nutrient management on the growth and yield of groundnut (Arachis hypogaea) in coastal region of Karaikal - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/289957921_Effect_of_integrated_nutrient_management_on_the_growth_and_yield_of_groundnut_Arachis_hypogaea_in_coastal_region_of_Karaikal
+         134. Groundnut cultivation in organic methods - FarmNest India Farm Community, accessed on August 18, 2025, https://discuss.farmnest.com/t/groundnut-cultivation-in-organic-methods/3757
+         135. Optimizing nutrient content and uptake in groundnut through integrated nutrient management under North Gujarat conditions, accessed on August 18, 2025, https://www.biochemjournal.com/archives/2024/vol8issue12S/PartH/S-8-12-50-470.pdf
+         136. Effect of Integrated Nutrient Management Practices on Growth and ..., accessed on August 18, 2025, https://arccjournals.com/journal/legume-research-an-international-journal/LR-5095
+         137. EFFECT OF INM ON GROWTH AND YIELD OF GROUNDNUT - CABI Digital Library, accessed on August 18, 2025, https://www.cabidigitallibrary.org/doi/pdf/10.5555/20220148927
+         138. effect of integrated nutrient management in groundnut on crop productivity and soil health under upland farming - krishikosh, accessed on August 18, 2025, https://krishikosh.egranth.ac.in/server/api/core/bitstreams/73cb395e-031f-453c-adc4-73434f7ab4f2/content
+         139. Effect of integrated nutrient management on growth, yield and quality of groundnut (Arachis hypogaea L.) under - International Journal of Research in Agronomy, accessed on August 18, 2025, https://www.agronomyjournals.com/article/view/1881/S-7-10-87
+         140. Effect of Integrated Nutrient Management on Growth, Yield Attributes ..., accessed on August 18, 2025, https://indianecologicalsociety.com/wp-content/themes/ecology/volume_pdfs/1645803779.pdf
+         141. Effect on Integrated Nutrient Management on Productivity, Quality ..., accessed on August 18, 2025, https://journalijpss.com/index.php/IJPSS/article/view/1551
+         142. water management in groundnut | PPTX - SlideShare, accessed on August 18, 2025, https://www.slideshare.net/slideshow/water-management-in-groundnut-151139413/151139413
+         143. A study on the effects of different irrigation methods and Fertilizer regimes on groundnut (Arachis hypogea var. cabri) - SAS Publishers, accessed on August 18, 2025, https://www.saspublishers.com/media/articles/SJAVS_319-19.pdf
+         144. Optimizing Irrigation Regimes for Peanuts in Water-Scarce Regions ..., accessed on August 18, 2025, https://www.mdpi.com/2073-4441/17/2/178
+         145. Growth, Yield and Water Use Efficiency of Groundnut under Drip and ..., accessed on August 18, 2025, https://www.ijcmas.com/7-9-2018/P.%20Sri%20Ranjitha,%20et%20al.pdf
+         146. (PDF) Effects of Field Irrigation Method on the Peanut Crop, accessed on August 18, 2025, https://www.researchgate.net/publication/379049542_Effects_of_Field_Irrigation_Method_on_the_Peanut_Crop
+         147. comparison of different irrigation systems for groundnut (arachis hypogaea l.) - CABI Digital Library, accessed on August 18, 2025, https://www.cabidigitallibrary.org/doi/pdf/10.5555/20153371409
+         148. Study of Comparative Performance of Drip, Micro Sprinkler Fertigation System and Surface Irrigation in Groundnut (Arachis hypogaea L.) - Environment and Ecology, accessed on August 18, 2025, https://environmentandecology.com/wp-content/uploads/2025/03/MS9-1-8.pdf
+         149. Leaf Miner - ENTO 331 :: Lecture 08 :: Pests of Groundnut, accessed on August 18, 2025, http://eagri.org/eagri50/ENTO331/lecture08/groundnut/005.html
+         150. Integrated weed management for rainfed groundnut - OAR@ICRISAT, accessed on August 18, 2025, https://oar.icrisat.org/4994/
+         151. MAJOR PESTS IN GROUNDNUT AND THEIR MANAGEMENT - Khethari, accessed on August 18, 2025, https://www.khethari.com/blogs/news/major-pests-in-groundnut-and-their-management
+         152. Groundnut Insects, Pests, and their Management - Wikifarmer, accessed on August 18, 2025, https://wikifarmer.com/library/en/article/groundnut-insects-pests-and-their-management
+         153. pest management - ORGANIC FARMING :: Home, accessed on August 18, 2025, https://agritech.tnau.ac.in/org_farm/orgfarm_prac_agri_groundnut_pest.html
+         154. PEANUTS - Grains Research and Development Corporation (GRDC), accessed on August 18, 2025, https://grdc.com.au/__data/assets/pdf_file/0022/370552/GrowNote-Peanuts-North-07-Insect-control.pdf
+         155. Insect and Mite Pest Management in Florida Peanut, accessed on August 18, 2025, https://nfrec.ifas.ufl.edu/media/nfrecifasufledu/docs/pdf/Peanut-Insect-Management.pdf
+         156. ENY2101/IN1408: Insect and Mite Pest Management in Florida Peanut - UF/IFAS EDIS, accessed on August 18, 2025, https://edis.ifas.ufl.edu/publication/IN1408
+         157. Groundnut Diseases and Management Practices | Wikifarmer, accessed on August 18, 2025, https://wikifarmer.com/library/en/article/groundnut-diseases-and-management-practices
+         158. Integrated Pest Management Peanut Scouting Manual - VTechWorks, accessed on August 18, 2025, https://vtechworks.lib.vt.edu/bitstreams/82205489-00bb-45bd-8cd0-921ed94193e8/download
+         159. Chapter 10: Peanut Plant Diseases, accessed on August 18, 2025, https://apresinc.com/images/2015/12/PST-Chapter-10.pdf
+         160. Integrated Pest management in Groundnut production - GOV.UK, accessed on August 18, 2025, https://assets.publishing.service.gov.uk/media/57a08c8b40f0b652dd0013c6/R8281-Groundnut-Production-Guide.pdf
+         161. Integrated Pest Management Package for Groundnut - NIPHM, accessed on August 18, 2025, https://niphm.gov.in/IPMPackages/Groundnut.pdf
+         162. Major Insect-pests of Groundnut and their Control Mea- sures, accessed on August 18, 2025, https://bioticapublications.com/journal-backend/articlePdf/694dae271d.pdf
+         163. Management of Major Insect Pests and Diseases in Groundnut through IPDM Modules, accessed on August 18, 2025, https://www.researchgate.net/publication/391639833_Management_of_Major_Insect_Pests_and_Diseases_in_Groundnut_through_IPDM_Modules
+         164. LFSP POST HARVEST, HANDLING & STORAGE TIPS—GROUNDNUTS - WordPress.com, accessed on August 18, 2025, https://lfspzwcom.files.wordpress.com/2020/05/groundnuts-consolidated.pdf
+         165. Harvesting, Drying, Curing, and Storage of Groundnut - Wikifarmer, accessed on August 18, 2025, https://wikifarmer.com/library/en/article/harvesting-drying-curing-and-storage-of-groundnut
+         166. 5.8.4 Management at harvest and post-harvest - Organic Africa, accessed on August 18, 2025, https://www.organic-africa.net/organic-agriculture/organic-agriculture/crop-management/groundnut/management-at-harvest-and-post-harvest.html
+         167. Assessment of Maturity over Seasons using Various Indices in Groundnut (Arachis hypogaea L.) - ARCC Journals, accessed on August 18, 2025, https://arccjournals.com/journal/legume-research-an-international-journal/LR-4366
+         168. Methods to Evaluate Peanut Maturity for Optimal Seed Quality and Yield, accessed on August 18, 2025, https://edis.ifas.ufl.edu/publication/AG411
+         169. Assessment of Maturity over Seasons using Various Indices in Groundnut (Arachis hypogaea L.) - CABI Digital Library, accessed on August 18, 2025, https://www.cabidigitallibrary.org/doi/pdf/10.5555/20220490905
+         170. Mechnization For Post Harvest of Groundnut | PDF | Peanuts | Vegetable Oil - Scribd, accessed on August 18, 2025, https://www.scribd.com/document/142182850/MECHNIZATION-FOR-POST-HARVEST-OF-GROUNDNUT
+         171. Post Harvest Handling Manual Zimbabwe (31Oct 2013)_0.pdf - N2Africa, accessed on August 18, 2025, https://www.n2africa.org/sites/default/files/Post%20Harvest%20Handling%20Manual%20Zimbabwe%20%2831Oct%202013%29_0.pdf
+         172. Chapter 15: Peanut Curing and Post-Harvest Physiology, accessed on August 18, 2025, https://apresinc.com/images/2015/12/PCU-Chapter-15.pdf
+         173. Costs and Returns in Groundnut Cultivation: A Spatio-temporal Analysis - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/330314259_Costs_and_Returns_in_Groundnut_Cultivation_A_Spatio-temporal_Analysis
+         174. Economic analysis of groundnut cultivation in Chitradurga district of Karnataka state - Journal of Farm Sciences, accessed on August 18, 2025, https://journaloffarmsciences.in/index.php/JFM/article/download/59/67
+         175. Economic Analysis of Groundnut Production in Andhra Pradesh - Semantic Scholar, accessed on August 18, 2025, https://pdfs.semanticscholar.org/017a/8fe776468831c651eda32cf14837974d1295.pdf
+         176. Cost and Return Analysis of Groundnut (Arachis hypogaea) Cultivation in Raigarh District of Chhattisgarh - ARCC Journals, accessed on August 18, 2025, https://arccjournals.com/journal/agricultural-science-digest/D-5580
+         177. Peanut Value Chain Development: The Case of Lower Lake Victoria Basin of Kenya - MDPI, accessed on August 18, 2025, https://www.mdpi.com/2227-7099/13/4/86
+         178. Performance and Yield Gap Analysis of Groundnut (Arachis hypogaea L.), Var Dharani through Cluster Front Line Demonstration in, accessed on August 18, 2025, https://www.ijcmas.com/10-12-2021/S.%20R.%20Dash,%20et%20al.pdf
+         179. Challenges to groundnut value chain development: lessons from an ..., accessed on August 18, 2025, https://www.tandfonline.com/doi/full/10.1080/19439342.2024.2319657
+         180. Value Added Products Of Groundnut | Request PDF - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/352814234_Value_Added_Products_Of_Groundnut
+         181. Ground Nuts (HS: 1202) Product Trade, Exporters and Importers ..., accessed on August 18, 2025, https://oec.world/en/profile/hs/ground-nuts
+         182. Post-Harvest Profile of Groundnut - Agmarknet, accessed on August 18, 2025, https://agmarknet.gov.in/Others/Groundnut.pdf
+         183. Value-Added Peanut Products | Peanut Information Network System - UGA, accessed on August 18, 2025, https://site.caes.uga.edu/pins/processor-values/value-added-peanut-products/
+         184. Amit Chauhan | PPTX - SlideShare, accessed on August 18, 2025, https://www.slideshare.net/slideshow/groundnut/45932324
+         185. Cultivating Value from Waste: Creating Novel Food, Feed, and Industrial Applications from Bambara Groundnut By-Products - MDPI, accessed on August 18, 2025, https://www.mdpi.com/2071-1050/17/16/7378
+         186. A comprehensive review of the value-added uses of peanut ( Arachis hypogaea) skins and by-products | Request PDF - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/330008425_A_comprehensive_review_of_the_value-added_uses_of_peanut_Arachis_hypogaea_skins_and_by-products
+         187. Groundnut policies, global trade dynamics, and the impact of trade liberalization, accessed on August 18, 2025, https://ideas.repec.org/p/wbk/wbrwps/3226.html
+         188. PRICE SUPPORT SCHEME (PSS): THE OPERATIONAL GUIDELINES CHAPTER – I INTRODUCTION - Department of Agriculture & Farmers Welfare, accessed on August 18, 2025, https://agriwelfare.gov.in/sites/default/files/pssguidelines.pdf
+         189. Minimum support price (India) - Wikipedia, accessed on August 18, 2025, https://en.wikipedia.org/wiki/Minimum_support_price_(India)
+         190. Minimum Support Price (MSP): Effectiveness & Its Legal Guarantee - PMF IAS, accessed on August 18, 2025, https://www.pmfias.com/msp/
+         191. Minimum Support Price - Agriculture - Vikaspedia, accessed on August 18, 2025, https://agriculture.vikaspedia.in/viewcontent/agriculture/market-information/minimum-support-price?lgn=en
+         192. Groundnut Outlook – February 2025, accessed on August 18, 2025, https://www.pjtau.edu.in/files/AgriMkt/2025/February/groundnut-February-2025.pdf
+         193. (PDF) THE CASE TO LEGALIZE THE MSP: ANALYSIS OF THE IMPACT ON AGRICULTURAL MARKET AND FARMER INCOME - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/393164385_THE_CASE_TO_LEGALIZE_THE_MSP_ANALYSIS_OF_THE_IMPACT_ON_AGRICULTURAL_MARKET_AND_FARMER_INCOME
+         194. Price Support Scheme: Government approves large-scale procurement of moong and groundnut - Agro Spectrum India, accessed on August 18, 2025, https://agrospectrumindia.com/2025/06/13/price-support-scheme-government-approves-large-scale-procurement-of-moong-and-groundnut.html
+         195. Analysis of the 2020 Farm Reform Bills: Gaps in MSP and their Impact on Farmers' Welfare in India - Journal of Scientific Research and Reports, accessed on August 18, 2025, https://journaljsrr.com/index.php/JSRR/article/view/2895
+         196. Potential Environmental Impacts of Peanut Using Water Footprint Assessment: A Case Study in Georgia - MDPI, accessed on August 18, 2025, https://www.mdpi.com/2073-4395/12/4/930
+         197. High-value crops' embedded groundnut-based production systems vis-à-vis system-mode integrated nutrient management: long-term impacts on system productivity, system profitability, and soil bio-fertility indicators in semi-arid climate - Frontiers, accessed on August 18, 2025, https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1298946/full
+         198. Explore Peanut Sustainability - Future of Agriculture - Agrocrops, accessed on August 18, 2025, https://www.agrocrops.com/en/peanuts-blogs/peanut-sustainability-and-the-future-of-agriculture
+         199. Impact of projected climate change on groundnut in Gujarat - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/263929833_Impact_of_projected_climate_change_on_groundnut_in_Gujarat
+         200. Innovative breeding strategies in groundnut for climate resilience: A review, accessed on August 18, 2025, https://horizonepublishing.com/journals/index.php/PST/article/view/8662
+         201. Advances in Crop Improvement and Delivery Research for Nutritional Quality and Health Benefits of Groundnut (Arachis hypogaea L.) - Frontiers, accessed on August 18, 2025, https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2020.00029/full
+         202. Emerging Strategies for Aflatoxin Resistance in Peanuts via Precision Breeding - MDPI, accessed on August 18, 2025, https://www.mdpi.com/2072-6651/17/8/394
+         203. Biotechnological Advances to Improve Abiotic Stress Tolerance in Crops - PubMed Central, accessed on August 18, 2025, https://pmc.ncbi.nlm.nih.gov/articles/PMC9570234/
+         204. Advances in Mutation Breeding of Groundnut (Arachis hypogaea L.) - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/369817954_Advances_in_Mutation_Breeding_of_Groundnut_Arachis_hypogaea_L
+         205. Precision Agriculture Technologies and Factors Affecting Their Adoption - ERS.USDA.gov, accessed on August 18, 2025, https://www.ers.usda.gov/amber-waves/2016/december/precision-agriculture-technologies-and-factors-affecting-their-adoption
+         206. Alabama's Agricultural Revolution: How Precision Farming is Boosting Rural Economic Growth and Crop Yields - Farmonaut, accessed on August 18, 2025, https://farmonaut.com/usa/alabamas-agricultural-revolution-how-precision-farming-is-boosting-rural-economic-growth-and-crop-yields
+         207. Smart Peanut Farming: Origins & Soil Moisture Insights - Farmonaut, accessed on August 18, 2025, https://farmonaut.com/news/smart-peanut-farming-5-ways-farmonaut-boosts-sustainability
+         208. Groundnut Farming Success In Gujarat With Narendra Farm - Farmonaut, accessed on August 18, 2025, https://farmonaut.com/case-study/groundnut-growers-success-narendra-mails-journey-with-farmonaut-in-gujarat
+         209. What is Precision Farming? Precision Agriculture Research in India - CEEW, accessed on August 18, 2025, https://www.ceew.in/publications/sustainable-agriculture-india/precision-farming
+         210. (PDF) THE BIOTECH AND PRECISION AGRICULTURE REVOLUTION: FEEDING THE WORLD SUSTAINABLY - ResearchGate, accessed on August 18, 2025, https://www.researchgate.net/publication/389809700_THE_BIOTECH_AND_PRECISION_AGRICULTURE_REVOLUTION_FEEDING_THE_WORLD_SUSTAINABLY
+         211. “Precision Farming: The Future of Indian Agriculture”, accessed on August 18, 2025, https://rawe2020.in/wp-content/uploads/2022/11/SAI-TEJASHREE-G-PAMB0153-SEMINAR-II-REPORT.pdf
